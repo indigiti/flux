@@ -1,0 +1,59 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_flux">
+			<key name="theme_widget_about_title" />
+			<key name="theme_widget_about_subheading" />
+			<key name="theme_widget_about_heading" />
+			<key name="theme_widget_about_description" />
+			<key name="theme_widget_follow_title" />
+			<key name="theme_widget_follow_item_1_heading" />
+			<key name="theme_widget_follow_item_1_subheading" />
+            <key name="theme_widget_follow_item_2_heading" />
+			<key name="theme_widget_follow_item_2_subheading" />
+            <key name="theme_widget_follow_item_3_heading" />
+			<key name="theme_widget_follow_item_3_subheading" />
+			<key name="theme_widget_post_slider_title" />
+			<key name="theme_widget_post_overlay_title" />
+			<key name="theme_widget_post_horizontal_title" />
+			<key name="theme_widget_banner_title" />
+			<key name="theme_widget_banner_html" />
+			<key name="theme_widget_banner_label_text" />
+			<key name="home_heading" />
+			<key name="home_post_grid_heading" />
+			<key name="home_post_cards_heading" />
+			<key name="home_category_heading" />
+			<key name="home_banner_one_after_html" />
+			<key name="home_banner_one_after_label_text" />
+			<key name="home_banner_two_after_html" />
+			<key name="home_banner_two_after_label_text" />
+			<key name="header_search_placeholder" />
+			<key name="header_search_heading" />
+			<key name="header_search_categories_heading" />
+			<key name="header_search_post_heading" />
+			<key name="burger_menu_follow_heading" />
+			<key name="header_burger_post_heading" />
+			<key name="header_custom_button_label" />
+			<key name="footer_follow_heading" />
+			<key name="footer_text" />
+			<key name="footer_copyright" />
+			<key name="footer_marquee_text" />
+			<key name="archive_banner_after_html" />
+			<key name="archive_banner_after_label_text" />
+			<key name="post_share_heading" />
+			<key name="post_read_next_heading" />
+			<key name="post_banner_after_html" />
+			<key name="post_banner_after_label_text" />
+			<key name="author_banner_after_html" />
+			<key name="author_banner_after_label_text" />
+			<key name="search_tags_heading" />
+			<key name="search_banner_after_html" />
+			<key name="search_banner_after_label_text" />
+			<key name="misc_social_1_label" />
+			<key name="misc_social_2_label" />
+			<key name="misc_social_3_label" />
+			<key name="misc_social_4_label" />
+			<key name="misc_social_5_label" />
+			<key name="misc_post_heading" />
+		</key>
+	</admin-texts>
+</wpml-config>

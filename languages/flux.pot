@@ -1,0 +1,2914 @@
+# Copyright (C) 2026 flux
+# This file is distributed under the same license as the flux package.
+msgid ""
+msgstr ""
+"Project-Id-Version: flux\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Code Supply Co. <hello@codesupply.co>\n"
+"Last-Translator: Code Supply Co. <hello@codesupply.co>\n"
+"POT-Creation-Date: 2026-09-04 11:39+0000\n"
+"Report-Msgid-Bugs-To: https://codesupply.co/contact/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: comments.php:32
+msgid "Add a comment"
+msgstr ""
+
+#: comments.php:30
+msgid "View Comments (%s)"
+msgstr ""
+
+#: comments.php:42, inc/custom-content.php:138, inc/theme-mods/archive-settings.php:228, inc/theme-mods/archive-settings.php:745, inc/theme-mods/author-settings.php:228, inc/theme-mods/header-settings.php:433, inc/theme-mods/header-settings.php:789, inc/theme-mods/header-settings.php:1046, inc/theme-mods/homepage/hero.php:51, inc/theme-mods/homepage/latest-posts.php:242, inc/theme-mods/homepage/post-cards.php:69, inc/theme-mods/homepage/post-grid.php:93, inc/theme-mods/homepage/post-slider.php:132, inc/theme-mods/homepage/post-tile.php:75, inc/theme-mods/homepage/post-tile.php:116, inc/theme-mods/miscellaneous-settings.php:1144, inc/theme-mods/post-settings.php:79, inc/theme-mods/post-settings.php:513, inc/theme-mods/search-settings.php:228, inc/theme-mods/widgets/post-horizontal.php:116, inc/theme-mods/widgets/post-overlay.php:116, inc/theme-mods/widgets/post-slider.php:171
+msgid "Comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments (%s)"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:95, comments.php:95
+msgid "Submit Comment"
+msgstr ""
+
+#: core/customizer/class-customizer.php:347
+msgid "Advanced settings"
+msgstr ""
+
+#: core/customizer/class-customizer.php:348
+msgid "No File Selected"
+msgstr ""
+
+#: core/customizer/class-customizer.php:349
+msgid "Remove"
+msgstr ""
+
+#: core/customizer/class-customizer.php:350, inc/gutenberg/panels.php:209, inc/gutenberg/panels.php:232, inc/gutenberg/panels.php:264, inc/metabox.php:26, inc/metabox.php:79
+msgid "Default"
+msgstr ""
+
+#: core/customizer/class-customizer.php:351
+msgid "Select File"
+msgstr ""
+
+#: core/customizer/class-customizer.php:352
+msgid "Standard Fonts"
+msgstr ""
+
+#: core/customizer/class-customizer.php:353
+msgid "Google Fonts"
+msgstr ""
+
+#: core/customizer/class-customizer.php:354
+msgid "CSS Defaults"
+msgstr ""
+
+#: core/customizer/class-customizer.php:355
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:139
+msgid "Font Family"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:140
+msgid "Select Font Family"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:145
+msgid "Variant"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:154
+msgid "Font Size"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:162
+msgid "Line Height"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:170
+msgid "Letter Spacing"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:178
+msgid "Word Spacing"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:186
+msgid "Text Align"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:191
+msgid "Inherit"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:197, inc/theme-mods/archive-settings.php:1019, inc/theme-mods/author-settings.php:880, inc/theme-mods/homepage/banner-one.php:259, inc/theme-mods/homepage/banner-two.php:259, inc/theme-mods/post-settings.php:813, inc/theme-mods/search-settings.php:1029, inc/theme-mods/widgets/banner.php:186
+msgid "Left"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:203, inc/theme-mods/archive-settings.php:1020, inc/theme-mods/author-settings.php:881, inc/theme-mods/homepage/banner-one.php:260, inc/theme-mods/homepage/banner-two.php:260, inc/theme-mods/post-settings.php:814, inc/theme-mods/search-settings.php:1030, inc/theme-mods/widgets/banner.php:187
+msgid "Center"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:209, inc/theme-mods/archive-settings.php:1021, inc/theme-mods/author-settings.php:882, inc/theme-mods/homepage/banner-one.php:261, inc/theme-mods/homepage/banner-two.php:261, inc/theme-mods/post-settings.php:815, inc/theme-mods/search-settings.php:1031, inc/theme-mods/widgets/banner.php:188
+msgid "Right"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:215
+msgid "Justify"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:225
+msgid "Text Transform"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:228, inc/gutenberg/panels.php:256, inc/theme-mods/homepage-settings.php:68, inc/theme-mods/homepage-settings.php:149, inc/theme-mods/homepage-settings.php:230, inc/theme-mods/homepage-settings.php:311, inc/theme-mods/homepage-settings.php:392, inc/theme-mods/homepage-settings.php:473, inc/theme-mods/homepage-settings.php:554, inc/theme-mods/homepage-settings.php:635, inc/theme-mods/miscellaneous-settings.php:59, inc/theme-mods/miscellaneous-settings.php:256, inc/theme-mods/miscellaneous-settings.php:446, inc/theme-mods/miscellaneous-settings.php:636, inc/theme-mods/miscellaneous-settings.php:826, inc/theme-mods/page-settings.php:43, inc/theme-mods/post-settings.php:55, inc/theme-mods/widgets/about.php:38, inc/theme-mods/widgets/banner.php:38, inc/theme-mods/widgets/follow.php:38, inc/theme-mods/widgets/post-horizontal.php:39, inc/theme-mods/widgets/post-overlay.php:39, inc/theme-mods/widgets/post-slider.php:38
+msgid "None"
+msgstr ""
+
+#: core/customizer/controls/class-control-typography.php:241
+msgid "Text Decoration"
+msgstr ""
+
+#: core/customizer/modules/class-fonts-theme.php:135
+msgid "Theme Fonts"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:61, core/customizer/modules/class-fonts.php:62
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:63
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:64
+msgid "Light 200"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:65
+msgid "Light 200 Italic"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:66
+msgid "Book 300"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:67
+msgid "Book 300 Italic"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:68, core/customizer/modules/class-fonts.php:69
+msgid "Normal 400"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:70
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:71
+msgid "Medium 500"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:72
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:73, core/customizer/modules/class-fonts.php:74
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:75
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:76
+msgid "Bold 700"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:77
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:78, core/customizer/modules/class-fonts.php:79
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:80
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:81, core/customizer/modules/class-fonts.php:82
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: core/customizer/modules/class-fonts.php:83
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:135
+msgid "License Information"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:286
+msgid "You do not have sufficient rights to view this page."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:301
+msgid "Updates"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:304
+msgid "We set a special price for all new themes for just a few days. Get notified of all introductory, flash and seasonal sales by signing up to our updates."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:314
+msgid "Email Address"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:327
+msgid "By checking this box you agree to our"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:327
+msgid "Terms and Conditions"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:327
+msgid "and"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:327
+msgid "Privacy Policy"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:329
+msgid "You may opt-out any time by clicking the unsubscribe link in the footer of any email you receice from us, or by contacting us at"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:329
+msgid "support@codesupply.co"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:338
+msgid "Subscribe"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:351
+msgid "Activation"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:364
+msgid "Active Websites"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:386
+msgid "Development Mode"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:382
+msgid "Check Again"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:402
+msgid "Purchase Code"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:409
+msgid "Purchase Date"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:423
+msgid "Supported Until"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:428
+msgid " (Expired)"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:430
+msgid "Please renew your item support for any support requests. See"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:430
+msgid "this document"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:430
+msgid "for more details."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:439
+msgid "Deactivation"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:445
+msgid "Deactivate License"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:449
+msgid "Activate License"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:482
+msgid "Purchase code not entered."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:493
+msgid "Email address is considered invalid."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:498
+msgid "Please agree to our terms and conditions."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:527
+msgid "No connection to the server, try another time, or contact support."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:575
+msgid "Could not receive data from the server, try another time, or contact support."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:613
+msgid "Support expired."
+msgstr ""
+
+#. translators: theme name and link activation.
+#: core/theme-dashboard/class-theme-activation.php:616
+msgid "Your support for the %1$s theme has expired. Please %2$s for any support requests."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:616
+msgid "renew your support license"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:651
+msgid "Multiple active websites detected."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:651
+msgid "Looks like you’re using the same theme license on multiple websites. A website theme can only be customized to create one customized website according to the ThemeForest license terms. If you want to create a second website from the same theme, you’ll need to"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:651
+msgid "purchase another license"
+msgstr ""
+
+#. translators: link activation.
+#: core/theme-dashboard/class-theme-activation.php:710
+msgid "Please %1$s to unlock demo content."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:710, core/theme-dashboard/class-theme-activation.php:707, core/theme-dashboard/class-theme-dashboard.php:135
+msgid "activate your license"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-activation.php:707
+msgid "Please %1$s to unlock theme demos."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:66, core/theme-dashboard/class-theme-dashboard.php:66, core/theme-dashboard/class-theme-dashboard.php:185
+msgid "Theme Dashboard"
+msgstr ""
+
+#. translators: Theme Name
+#: core/theme-dashboard/class-theme-dashboard.php:79
+msgid "Welcome to %1$s"
+msgstr ""
+
+#. translators: Theme Name
+#: core/theme-dashboard/class-theme-dashboard.php:81
+msgid "%1$s is now installed and activated. To help you with the next step, we've gathered together on this page all the resources you might need. We hope you enjoy using this theme."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:112
+msgid "Hello, "
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:120
+msgid "👋🏻"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:135
+msgid "is now installed and ready to go. Please"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:135
+msgid "to enable theme demos."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:141
+msgid "Go to Theme Demos"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:176
+msgid "Documentation"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:264
+msgid "Changelog"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:267
+msgid "Keep informed with the latest changes about each theme."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:270
+msgid "See the Changelog"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:277
+msgid "Support"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:282
+msgid "Need help? We're here for you!"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:285
+msgid "Have a question? Hit a bug? Get the help you need, when you need it from our friendly support staff."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:289
+msgid "Get Support"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:298
+msgid "Community"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:302
+msgid "Join our Facebook community"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:305
+msgid "Discuss products and ask for community support or help the community."
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:309
+msgid "Join Now"
+msgstr ""
+
+#: core/theme-dashboard/class-theme-dashboard.php:400, core/theme-demos/class-theme-demos.php:530
+msgid "Something went wrong, contact support."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:72, core/theme-demos/class-theme-demos.php:72, core/theme-demos/class-theme-demos.php:349
+msgid "Theme Demos"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:324
+msgid "Demo content id not set."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:120
+msgid "Invalid demo content id."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:158
+msgid "Install Plugins"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:177
+msgid "Required plugin will be installed"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:184
+msgid "Installing and activating"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:196
+msgid "Pre import..."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:203
+msgid "Import Content"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:226
+msgid "Importing"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:240
+msgid "Customizer"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:245
+msgid "Importing customizer options..."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:256
+msgid "Options"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:261
+msgid "Importing options..."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:272
+msgid "Widgets"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:277
+msgid "Importing widgets..."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:286
+msgid "Pre finishing..."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:294
+msgid "Finish"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:299
+msgid "Finishing setup..."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:311, core/theme-demos/class-theme-demos.php:502
+msgid "Cancel"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:317, core/theme-demos/class-theme-demos.php:390
+msgid "Import"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:375
+msgid "Preview Demo"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:409
+msgid "Import Theme"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:417
+msgid "Installing"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:422
+msgid "Please be patient and don't refresh this page, the import process may take a while, this also depends on your server."
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:449
+msgid "Imported Succefully"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:453
+msgid "Go ahead, customize the text, images and design to make it yours!"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:458
+msgid "Customize"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:465
+msgid "Return to Dashboard"
+msgstr ""
+
+#: core/theme-demos/class-theme-demos.php:469
+msgid "View Site"
+msgstr ""
+
+#: core/theme-demos/import/class-customizer-importer.php:42
+msgid "Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:401
+msgid "Unknown slug in a plugin."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:405
+msgid "Unknown path in a plugin."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:412
+msgid "Insufficient permissions to install the plugin."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:437
+msgid "Failed to initialize or activate importer plugin."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:454, core/theme-demos/import/class-manager-import.php:677, core/theme-demos/import/class-manager-import.php:746, core/theme-demos/import/class-manager-import.php:814
+msgid "The url address of the demo content is not specified."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:470
+msgid "You are not permitted to import contents."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:474
+msgid "No XML file specified."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:683
+msgid "You are not permitted to import customizer."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:687
+msgid "No customizer JSON file specified."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:752
+msgid "You are not permitted to import widgets."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:756
+msgid "No widgets WIE file specified."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:820
+msgid "You are not permitted to import options."
+msgstr ""
+
+#: core/theme-demos/import/class-manager-import.php:824
+msgid "No options JSON file specified."
+msgstr ""
+
+#: core/theme-demos/import/class-widget-importer.php:39
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: core/theme-demos/import/class-widget-importer.php:89
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: core/theme-demos/import/class-widget-importer.php:110
+msgid "Site does not support widget"
+msgstr ""
+
+#: core/theme-demos/import/class-widget-importer.php:159
+msgid "Widget already exists"
+msgstr ""
+
+#: core/theme-demos/import/class-widget-importer.php:234
+msgid "Imported to Inactive"
+msgstr ""
+
+#: core/theme-demos/import/class-widget-importer.php:231
+msgid "Imported"
+msgstr ""
+
+#: core/theme-demos/import/class-widget-importer.php:240
+msgid "No Title"
+msgstr ""
+
+#: core/theme-demos/import/class-widget-importer.php:304
+msgid "No results for widget import!"
+msgstr ""
+
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:122
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#. translators: 1:version, 2:MAX_WXR_VERSION
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:160, core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:275, core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:356
+msgid "This WXR file (version %1$s) is newer than the importer (version %2$s) and may not be supported. Please consider updating."
+msgstr ""
+
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:503
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:570
+msgid "Invalid author mapping"
+msgstr ""
+
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:658
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#. translators: 1:post_title, 2:post_type
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:745
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr ""
+
+#. translators: 1:singular_name, 2:post_title
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:754
+msgid "%1$s \"%2$s\" already exists."
+msgstr ""
+
+#. translators: Post title
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:850
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#. translators: 1:post_title, 2:singular_name
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:876
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr ""
+
+#. translators: 1:post_title, 2:singular_name
+#. translators: 1:name, 2:taxonomy
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:909, core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1867
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr ""
+
+#. translators: 1:original_id, 2:post_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:912
+msgid "Post %1$d remapped to %2$d"
+msgstr ""
+
+#. translators: 1:taxonomy, 2:term name
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:952
+msgid "Failed to import term: %1$s - %2$s"
+msgstr ""
+
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1104
+msgid "Invalid file type"
+msgstr ""
+
+#. translators: 1:user_login
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1624
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#. translators: 1:user_login
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1646
+msgid "Imported user \"%s\""
+msgstr ""
+
+#. translators: 1:original_id, 2:user_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1649
+msgid "User %1$d remapped to %2$d"
+msgstr ""
+
+#. translators: 1:taxonomy, 2:name
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1820
+msgid "Failed to import %1$s %2$s"
+msgstr ""
+
+#. translators: 1:original_id, 2:term_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1870
+msgid "Term %1$d remapped to %2$d"
+msgstr ""
+
+#. translators: 1:term_id, 2:key, 3: value
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1950
+msgid "Meta for term_id %1$d : %2$s => %3$s ; successfully added!"
+msgstr ""
+
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:1940
+msgid "Failed to add metakey: %1$s, metavalue: %2$s to term_id: %3$d"
+msgstr ""
+
+#. translators: 1:code, 2:desc, 3: url
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2006
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2023
+msgid "Zero size file downloaded"
+msgstr ""
+
+#. translators: 1:max_size
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2031
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#. translators: 1:post_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2055
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#. translators: 1:title, 2:post_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2067
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#. translators: 1:post_id, 2:parent_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2069
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr ""
+
+#. translators: 1:title, 2:post_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2081
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#. translators: 1:post_id, 2:author_slug
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2083
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr ""
+
+#. translators: 1:post_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2107
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#. translators: 1:post_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2119
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr ""
+
+#. translators: 1:title, 2:post_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2162
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr ""
+
+#. translators: 1:post_id, 2:menu_object_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2164
+msgid "Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not be found"
+msgstr ""
+
+#. translators: 1:comment_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2181
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#. translators: 1:comment_id, 2:parent_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2184
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr ""
+
+#. translators: 1:comment_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2195
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#. translators: 1:comment_id, 2:author_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2198
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr ""
+
+#. translators: 1:comment_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2212
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#. translators: 1:termid
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2242
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#. translators: 1:term_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2251
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#. translators: 1:term_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2260
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#. translators: 1:term_id, 2:parent_slug
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2267
+msgid "The term(%1$d)\"s parent_slug (%2$s) is not found in the remapping-array."
+msgstr ""
+
+#. translators: 1:term_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2279
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#. translators: 1:termattributes name, 2:term_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2297
+msgid "Could not update \"%1$s\" (term #%2$d) with mapped data"
+msgstr ""
+
+#. translators: 1:term_id, 2:mapped_parent
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2307
+msgid "Term %1$d was successfully updated with parent %2$d"
+msgstr ""
+
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2337
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#. translators: 1:value, 2:new_id, 3:post_id
+#: core/theme-demos/import/wp-content-importer-v2/WXRImporter.php:2347
+msgid "Remapping featured image ID %1$d to new ID %2$d for post ID %3$d"
+msgstr ""
+
+#: functions.php:76, inc/gutenberg/editor.php:123
+msgid "Primary"
+msgstr ""
+
+#: functions.php:77, inc/theme-mods/archive-settings.php:343, inc/theme-mods/archive-settings.php:463, inc/theme-mods/archive-settings.php:549, inc/theme-mods/archive-settings.php:671, inc/theme-mods/archive-settings.php:933, inc/theme-mods/author-settings.php:343, inc/theme-mods/author-settings.php:463, inc/theme-mods/author-settings.php:549, inc/theme-mods/author-settings.php:629, inc/theme-mods/author-settings.php:794, inc/theme-mods/homepage/banner-one.php:169, inc/theme-mods/homepage/banner-two.php:169, inc/theme-mods/homepage/latest-posts.php:357, inc/theme-mods/homepage/latest-posts.php:476, inc/theme-mods/homepage/latest-posts.php:562, inc/theme-mods/homepage/latest-posts.php:655, inc/theme-mods/homepage/post-cards.php:561, inc/theme-mods/homepage/post-cards.php:685, inc/theme-mods/homepage/post-cards.php:803, inc/theme-mods/post-settings.php:730, inc/theme-mods/search-settings.php:343, inc/theme-mods/search-settings.php:463, inc/theme-mods/search-settings.php:549, inc/theme-mods/search-settings.php:629, inc/theme-mods/search-settings.php:943
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:78
+msgid "Burger"
+msgstr ""
+
+#: functions.php:79
+msgid "Footer Columns"
+msgstr ""
+
+#: functions.php:80
+msgid "Additional"
+msgstr ""
+
+#: inc/assets.php:47
+msgid "URL copied"
+msgstr ""
+
+#: inc/custom-content.php:15
+msgid "Header"
+msgstr ""
+
+#: inc/custom-content.php:20
+msgid "Site Content"
+msgstr ""
+
+#: inc/custom-content.php:25
+msgid "Main"
+msgstr ""
+
+#: inc/custom-content.php:30, inc/theme-mods/homepage-settings.php:50
+msgid "Hero"
+msgstr ""
+
+#: inc/custom-content.php:43, inc/custom-menu.php:158, inc/custom-menu.php:164, inc/theme-mods/header-settings.php:254, inc/theme-mods/homepage-settings.php:455, inc/theme-mods/homepage/categories.php:85, inc/theme-mods/search-settings.php:689
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-content.php:56, inc/theme-mods/homepage-settings.php:212
+msgid "Post Tile"
+msgstr ""
+
+#: inc/custom-content.php:69, inc/theme-mods/homepage-settings.php:131, inc/theme-mods/widgets/post-slider.php:11
+msgid "Post Slider"
+msgstr ""
+
+#: inc/custom-content.php:82, inc/theme-mods/homepage-settings.php:293
+msgid "Post Grid"
+msgstr ""
+
+#: inc/custom-content.php:95, inc/theme-mods/homepage-settings.php:374
+msgid "Post Cards"
+msgstr ""
+
+#: inc/custom-content.php:108, inc/custom-content.php:157
+msgid "Post"
+msgstr ""
+
+#: inc/custom-content.php:113
+msgid "Post Content"
+msgstr ""
+
+#: inc/custom-content.php:118, inc/custom-content.php:158
+msgid "Page"
+msgstr ""
+
+#: inc/custom-content.php:123
+msgid "Page Content"
+msgstr ""
+
+#: inc/custom-content.php:128
+msgid "Post Author"
+msgstr ""
+
+#: inc/custom-content.php:133
+msgid "Post Pagination"
+msgstr ""
+
+#: inc/custom-content.php:143
+msgid "Footer"
+msgstr ""
+
+#: inc/custom-content.php:155, inc/theme-mods/homepage-settings.php:82, inc/theme-mods/homepage-settings.php:163, inc/theme-mods/homepage-settings.php:244, inc/theme-mods/homepage-settings.php:325, inc/theme-mods/homepage-settings.php:406, inc/theme-mods/homepage-settings.php:487, inc/theme-mods/homepage-settings.php:568, inc/theme-mods/homepage-settings.php:649
+msgid "Homepage"
+msgstr ""
+
+#: inc/custom-content.php:156
+msgid "Front Page"
+msgstr ""
+
+#: inc/custom-content.php:159
+msgid "Archive"
+msgstr ""
+
+#: inc/custom-content.php:179
+msgid "Additional Content"
+msgstr ""
+
+#: inc/custom-content.php:187, inc/theme-mods/typography-settings.php:18
+msgid "General"
+msgstr ""
+
+#: inc/custom-content.php:196
+msgid "Load Google AdSense Scripts"
+msgstr ""
+
+#: inc/custom-content.php:197
+msgid "Enable this if you're using Google AdSense."
+msgstr ""
+
+#: inc/custom-content.php:221
+msgid "Before"
+msgstr ""
+
+#: inc/custom-content.php:230
+msgid "After"
+msgstr ""
+
+#: inc/custom-menu.php:95
+msgid "Menu Tag"
+msgstr ""
+
+#: inc/custom-menu.php:151, inc/theme-mods/header-settings.php:766
+msgid "Featured Menu"
+msgstr ""
+
+#: inc/custom-menu.php:156, inc/gutenberg/panels.php:272, inc/metabox.php:34, inc/metabox.php:83, inc/theme-mods/archive-settings.php:721, inc/theme-mods/homepage/post-slider.php:46, inc/theme-mods/homepage/post-slider.php:104, inc/theme-mods/widgets/post-slider.php:110
+msgid "Disabled"
+msgstr ""
+
+#: inc/custom-menu.php:157, inc/theme-mods/homepage/latest-posts.php:64, inc/theme-mods/homepage/post-cards.php:42, index.php:74, template-parts/sections/post-cards.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/filters.php:322, inc/theme-mods/header-settings.php:673, inc/theme-mods/header-settings.php:1277, inc/theme-mods/homepage/post-cards.php:317, inc/theme-mods/homepage/post-grid.php:329, inc/theme-mods/homepage/post-slider.php:315, inc/theme-mods/homepage/post-tile.php:362, inc/theme-mods/miscellaneous-settings.php:1324, inc/theme-mods/widgets/post-horizontal.php:289, inc/theme-mods/widgets/post-overlay.php:272, inc/theme-mods/widgets/post-slider.php:339
+msgid "Views"
+msgstr ""
+
+#: inc/filters.php:355
+msgid "Your Name"
+msgstr ""
+
+#: inc/filters.php:356
+msgid "Your E-mail"
+msgstr ""
+
+#: inc/filters.php:357
+msgid "Your Website"
+msgstr ""
+
+#: inc/filters.php:375
+msgid "Your Comment"
+msgstr ""
+
+#: inc/filters.php:393
+msgid "Singular Options"
+msgstr ""
+
+#: inc/filters.php:527
+msgid "Save my name and email in this browser for the next time I comment."
+msgstr ""
+
+#: inc/filters.php:565
+msgid "Headline"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: inc/filters.php:603
+msgid "View %1$d comments on %2$s"
+msgstr ""
+
+#: inc/filters.php:597
+msgid "Leave a comment on %s"
+msgstr ""
+
+#: inc/gutenberg/editor.php:128
+msgid "Secondary"
+msgstr ""
+
+#: inc/gutenberg/editor.php:133, inc/theme-mods/archive-settings.php:46, inc/theme-mods/author-settings.php:46, inc/theme-mods/header-settings.php:31, inc/theme-mods/homepage/categories.php:40, inc/theme-mods/homepage/latest-posts.php:47, inc/theme-mods/homepage/post-grid.php:58, inc/theme-mods/homepage/post-tile.php:40, inc/theme-mods/search-settings.php:46
+msgid "Layout"
+msgstr ""
+
+#: inc/gutenberg/editor.php:138
+msgid "Accent"
+msgstr ""
+
+#: inc/gutenberg/editor.php:143
+msgid "Border"
+msgstr ""
+
+#: inc/gutenberg/editor.php:148
+msgid "White"
+msgstr ""
+
+#: inc/gutenberg/panels.php:213, inc/theme-mods/archive-settings.php:35, inc/theme-mods/author-settings.php:35, inc/theme-mods/homepage/latest-posts.php:36, inc/theme-mods/page-settings.php:23, inc/theme-mods/post-settings.php:35, inc/theme-mods/search-settings.php:35
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/gutenberg/panels.php:217, inc/theme-mods/archive-settings.php:36, inc/theme-mods/author-settings.php:36, inc/theme-mods/homepage/latest-posts.php:37, inc/theme-mods/page-settings.php:24, inc/theme-mods/post-settings.php:36, inc/theme-mods/search-settings.php:36
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/gutenberg/panels.php:221, inc/theme-mods/archive-settings.php:37, inc/theme-mods/author-settings.php:37, inc/theme-mods/homepage/latest-posts.php:38, inc/theme-mods/page-settings.php:25, inc/theme-mods/post-settings.php:37, inc/theme-mods/search-settings.php:37
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/gutenberg/panels.php:236, inc/theme-mods/archive-settings.php:190, inc/theme-mods/author-settings.php:190, inc/theme-mods/homepage/latest-posts.php:204, inc/theme-mods/page-settings.php:38, inc/theme-mods/post-settings.php:50, inc/theme-mods/search-settings.php:190
+msgid "Standard"
+msgstr ""
+
+#: inc/gutenberg/panels.php:240, inc/theme-mods/page-settings.php:39, inc/theme-mods/post-settings.php:51
+msgid "Featured"
+msgstr ""
+
+#: inc/gutenberg/panels.php:244, inc/theme-mods/page-settings.php:40, inc/theme-mods/post-settings.php:52
+msgid "Featured Overlap"
+msgstr ""
+
+#: inc/gutenberg/panels.php:248, inc/theme-demos.php:55, inc/theme-mods/page-settings.php:41, inc/theme-mods/post-settings.php:53
+msgid "Overlay"
+msgstr ""
+
+#: inc/gutenberg/panels.php:252, inc/theme-mods/page-settings.php:42, inc/theme-mods/post-settings.php:54
+msgid "Page Title Only"
+msgstr ""
+
+#: inc/gutenberg/panels.php:268, inc/metabox.php:30, inc/metabox.php:81, inc/theme-mods/archive-settings.php:720, inc/theme-mods/homepage/post-slider.php:45, inc/theme-mods/homepage/post-slider.php:103, inc/theme-mods/widgets/post-slider.php:109
+msgid "Enabled"
+msgstr ""
+
+#: inc/gutenberg/panels.php:282
+msgid "Overlay Header"
+msgstr ""
+
+#: inc/gutenberg/panels.php:291
+msgid "Post Archives"
+msgstr ""
+
+#: inc/load-more.php:91
+msgid "Load More"
+msgstr ""
+
+#: inc/load-more.php:92
+msgid "Loading"
+msgstr ""
+
+#: inc/metabox.php:23, inc/metabox.php:75, inc/theme-mods/archive-settings.php:705
+msgid "Featured Post"
+msgstr ""
+
+#: inc/metabox.php:36
+msgid "Enabling or disabling this option will override the default configuration."
+msgstr ""
+
+#: inc/metabox.php:40, inc/metabox.php:89
+msgid "Category Thumbnail"
+msgstr ""
+
+#: inc/metabox.php:41, inc/metabox.php:91
+msgid "Select or upload image"
+msgstr ""
+
+#: inc/metabox.php:41, inc/metabox.php:91
+msgid "Set image"
+msgstr ""
+
+#: inc/metabox.php:43, inc/metabox.php:93
+msgid "The category thumbnail is displayed in its original dimensions on your website. Please upload the 2x version of your thumbnail via the Media Library with @2x suffix for Retina display support. For example, image@2x.png. Recommended maximum size is 528px (1056px for Retina version)."
+msgstr ""
+
+#: inc/metabox.php:50, inc/metabox.php:104
+msgid "Upload image"
+msgstr ""
+
+#: inc/metabox.php:51, inc/metabox.php:105
+msgid "Remove image"
+msgstr ""
+
+#: inc/partials.php:232
+msgid "Next page"
+msgstr ""
+
+#: inc/partials.php:233
+msgid "Previous page"
+msgstr ""
+
+#: inc/partials.php:375
+msgid "Share"
+msgstr ""
+
+#: inc/partials.php:519, inc/partials.php:531, inc/partials.php:543, inc/partials.php:555, inc/theme-mods/archive-settings.php:991, inc/theme-mods/author-settings.php:852, inc/theme-mods/homepage/banner-one.php:230, inc/theme-mods/homepage/banner-two.php:230, inc/theme-mods/post-settings.php:788, inc/theme-mods/search-settings.php:1001, inc/theme-mods/widgets/banner.php:158, template-parts/sections/banner-one.php:11, template-parts/sections/banner-two.php:11, template-parts/widgets/banner.php:12
+msgid "Advertisement"
+msgstr ""
+
+#: inc/post-meta.php:175, inc/theme-functions.php:1870, inc/theme-functions.php:1865, inc/theme-functions.php:1857
+msgid "by"
+msgstr ""
+
+#. translators: %s number of minutes
+#: inc/post-meta.php:273
+msgid "%s Min Read"
+msgid_plural "%s Min Read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/post-meta.php:270
+msgid "min"
+msgstr ""
+
+#. translators: %s number of minutes
+#: inc/post-meta.php:295
+msgid "%s min read"
+msgid_plural "%s min read"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-demos.php:19
+msgid "Regenerate the thumbnails for one or more of your image uploads. Useful when changing their sizes or your theme."
+msgstr ""
+
+#: inc/theme-demos.php:26
+msgid "AI-powered engagement toolkit: paragraph highlights, pull quotes, and semantic recommendations that increase reader engagement and time on site."
+msgstr ""
+
+#: inc/theme-demos.php:33
+msgid "Unlocks all premium Supercharger features: extra AI modules, real-time interactive preview, dark-mode styling, and per-module analytics. Requires a Supercharger license."
+msgstr ""
+
+#: inc/theme-demos.php:39
+msgid "Extended Grid"
+msgstr ""
+
+#: inc/theme-demos.php:47, inc/theme-demos.php:63, inc/theme-demos.php:79, inc/theme-demos.php:95, inc/theme-demos.php:111
+msgid "Demo Content"
+msgstr ""
+
+#: inc/theme-demos.php:49, inc/theme-demos.php:65, inc/theme-demos.php:81, inc/theme-demos.php:97, inc/theme-demos.php:113
+msgid "Enabling this option will import demo posts, categories, and secondary pages. It's recommended to disable this option for existing"
+msgstr ""
+
+#: inc/theme-demos.php:71
+msgid "Overlapped"
+msgstr ""
+
+#: inc/theme-demos.php:87
+msgid "Small Grid"
+msgstr ""
+
+#: inc/theme-demos.php:103
+msgid "3-Column Grid"
+msgstr ""
+
+#: inc/theme-functions.php:407
+msgid "B"
+msgstr ""
+
+#: inc/theme-functions.php:408
+msgid "M"
+msgstr ""
+
+#: inc/theme-functions.php:409
+msgid "K"
+msgstr ""
+
+#: inc/theme-functions.php:820
+msgid "View on YouTube"
+msgstr ""
+
+#: inc/theme-functions.php:1421, inc/theme-mods/footer-settings.php:32, inc/theme-mods/header-settings.php:901, inc/theme-mods/widgets/follow.php:11, inc/theme-tags.php:361, inc/theme-tags.php:391
+msgid "Follow"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: inc/theme-functions.php:1880
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/theme-functions.php:1883
+msgid "(Edit)"
+msgstr ""
+
+#: inc/theme-functions.php:1888
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:11
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:20, inc/theme-mods/author-settings.php:20, inc/theme-mods/header-settings.php:20, inc/theme-mods/homepage/categories.php:21, inc/theme-mods/homepage/hero.php:21, inc/theme-mods/homepage/latest-posts.php:21, inc/theme-mods/homepage/post-cards.php:21, inc/theme-mods/homepage/post-grid.php:21, inc/theme-mods/homepage/post-slider.php:21, inc/theme-mods/homepage/post-tile.php:21, inc/theme-mods/post-settings.php:20, inc/theme-mods/search-settings.php:20, inc/theme-mods/widgets/about.php:86, inc/theme-mods/widgets/banner.php:86, inc/theme-mods/widgets/post-horizontal.php:87, inc/theme-mods/widgets/post-overlay.php:87, inc/theme-mods/widgets/post-slider.php:86
+msgid "Common"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:31, inc/theme-mods/author-settings.php:31, inc/theme-mods/homepage/latest-posts.php:32, inc/theme-mods/page-settings.php:19, inc/theme-mods/post-settings.php:31, inc/theme-mods/search-settings.php:31, inc/widgets-init.php:18
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:50, inc/theme-mods/author-settings.php:50, inc/theme-mods/homepage/latest-posts.php:51, inc/theme-mods/search-settings.php:50
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:51, inc/theme-mods/author-settings.php:51, inc/theme-mods/homepage/latest-posts.php:52, inc/theme-mods/search-settings.php:51
+msgid "List Layout"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:52, inc/theme-mods/author-settings.php:52, inc/theme-mods/homepage/latest-posts.php:53, inc/theme-mods/search-settings.php:52
+msgid "Full Post Layout"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:61, inc/theme-mods/archive-settings.php:755, inc/theme-mods/author-settings.php:61, inc/theme-mods/header-settings.php:799, inc/theme-mods/homepage/hero.php:69, inc/theme-mods/homepage/latest-posts.php:75, inc/theme-mods/homepage/post-cards.php:87, inc/theme-mods/homepage/post-grid.php:111, inc/theme-mods/homepage/post-slider.php:150, inc/theme-mods/homepage/post-tile.php:164, inc/theme-mods/miscellaneous-settings.php:1161, inc/theme-mods/post-settings.php:481, inc/theme-mods/search-settings.php:61, inc/theme-mods/widgets/post-slider.php:188
+msgid "Display excerpt"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:80, inc/theme-mods/author-settings.php:80, inc/theme-mods/homepage/latest-posts.php:94, inc/theme-mods/homepage/post-cards.php:105, inc/theme-mods/search-settings.php:80
+msgid "Display borders"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:90, inc/theme-mods/archive-settings.php:765, inc/theme-mods/author-settings.php:90, inc/theme-mods/header-settings.php:459, inc/theme-mods/header-settings.php:809, inc/theme-mods/header-settings.php:1072, inc/theme-mods/homepage/latest-posts.php:104, inc/theme-mods/homepage/post-cards.php:122, inc/theme-mods/homepage/post-grid.php:134, inc/theme-mods/miscellaneous-settings.php:1178, inc/theme-mods/post-settings.php:435, inc/theme-mods/search-settings.php:90
+msgid "Image Orientation"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:94, inc/theme-mods/archive-settings.php:769, inc/theme-mods/author-settings.php:94, inc/theme-mods/header-settings.php:463, inc/theme-mods/header-settings.php:813, inc/theme-mods/header-settings.php:1076, inc/theme-mods/homepage/latest-posts.php:108, inc/theme-mods/homepage/post-cards.php:126, inc/theme-mods/homepage/post-grid.php:138, inc/theme-mods/miscellaneous-settings.php:1182, inc/theme-mods/post-settings.php:439, inc/theme-mods/search-settings.php:94
+msgid "Original"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:95, inc/theme-mods/archive-settings.php:770, inc/theme-mods/author-settings.php:95, inc/theme-mods/header-settings.php:464, inc/theme-mods/header-settings.php:814, inc/theme-mods/header-settings.php:1077, inc/theme-mods/homepage/latest-posts.php:109, inc/theme-mods/homepage/post-cards.php:127, inc/theme-mods/homepage/post-grid.php:139, inc/theme-mods/miscellaneous-settings.php:1183, inc/theme-mods/post-settings.php:440, inc/theme-mods/search-settings.php:95
+msgid "Landscape 4:3"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:96, inc/theme-mods/archive-settings.php:771, inc/theme-mods/author-settings.php:96, inc/theme-mods/header-settings.php:465, inc/theme-mods/header-settings.php:815, inc/theme-mods/header-settings.php:1078, inc/theme-mods/homepage/latest-posts.php:110, inc/theme-mods/homepage/post-cards.php:128, inc/theme-mods/homepage/post-grid.php:140, inc/theme-mods/miscellaneous-settings.php:1184, inc/theme-mods/post-settings.php:441, inc/theme-mods/search-settings.php:96
+msgid "Landscape 3:2"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:97, inc/theme-mods/archive-settings.php:772, inc/theme-mods/author-settings.php:97, inc/theme-mods/header-settings.php:466, inc/theme-mods/header-settings.php:816, inc/theme-mods/header-settings.php:1079, inc/theme-mods/homepage/latest-posts.php:111, inc/theme-mods/homepage/post-cards.php:129, inc/theme-mods/homepage/post-grid.php:141, inc/theme-mods/miscellaneous-settings.php:1185, inc/theme-mods/post-settings.php:442, inc/theme-mods/search-settings.php:97
+msgid "Landscape 16:9"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:98, inc/theme-mods/author-settings.php:98, inc/theme-mods/header-settings.php:467, inc/theme-mods/header-settings.php:817, inc/theme-mods/header-settings.php:1080, inc/theme-mods/homepage/latest-posts.php:112, inc/theme-mods/homepage/post-cards.php:130, inc/theme-mods/homepage/post-grid.php:142, inc/theme-mods/miscellaneous-settings.php:1186, inc/theme-mods/post-settings.php:443, inc/theme-mods/search-settings.php:98
+msgid "Landscape 20:9"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:99, inc/theme-mods/archive-settings.php:773, inc/theme-mods/author-settings.php:99, inc/theme-mods/header-settings.php:468, inc/theme-mods/header-settings.php:818, inc/theme-mods/header-settings.php:1081, inc/theme-mods/homepage/latest-posts.php:113, inc/theme-mods/homepage/post-cards.php:131, inc/theme-mods/homepage/post-grid.php:143, inc/theme-mods/miscellaneous-settings.php:1187, inc/theme-mods/post-settings.php:444, inc/theme-mods/search-settings.php:99
+msgid "Landscape 21:9"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:100, inc/theme-mods/archive-settings.php:774, inc/theme-mods/author-settings.php:100, inc/theme-mods/header-settings.php:469, inc/theme-mods/header-settings.php:819, inc/theme-mods/header-settings.php:1082, inc/theme-mods/homepage/latest-posts.php:114, inc/theme-mods/homepage/post-cards.php:132, inc/theme-mods/homepage/post-grid.php:144, inc/theme-mods/miscellaneous-settings.php:1188, inc/theme-mods/post-settings.php:445, inc/theme-mods/search-settings.php:100
+msgid "Portrait 3:4"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:101, inc/theme-mods/archive-settings.php:775, inc/theme-mods/author-settings.php:101, inc/theme-mods/header-settings.php:470, inc/theme-mods/header-settings.php:820, inc/theme-mods/header-settings.php:1083, inc/theme-mods/homepage/latest-posts.php:115, inc/theme-mods/homepage/post-cards.php:133, inc/theme-mods/homepage/post-grid.php:145, inc/theme-mods/miscellaneous-settings.php:1189, inc/theme-mods/post-settings.php:446, inc/theme-mods/search-settings.php:101
+msgid "Portrait 2:3"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:102, inc/theme-mods/archive-settings.php:776, inc/theme-mods/author-settings.php:102, inc/theme-mods/header-settings.php:471, inc/theme-mods/header-settings.php:821, inc/theme-mods/header-settings.php:1084, inc/theme-mods/homepage/latest-posts.php:116, inc/theme-mods/homepage/post-cards.php:134, inc/theme-mods/homepage/post-grid.php:146, inc/theme-mods/miscellaneous-settings.php:1190, inc/theme-mods/post-settings.php:447, inc/theme-mods/search-settings.php:102
+msgid "Square"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:120, inc/theme-mods/author-settings.php:120, inc/theme-mods/header-settings.php:496, inc/theme-mods/header-settings.php:830, inc/theme-mods/header-settings.php:1109, inc/theme-mods/homepage/latest-posts.php:134, inc/theme-mods/homepage/post-cards.php:151, inc/theme-mods/homepage/post-grid.php:163, inc/theme-mods/miscellaneous-settings.php:1206, inc/theme-mods/post-settings.php:463, inc/theme-mods/search-settings.php:120
+msgid "Image Size"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:140, inc/theme-mods/author-settings.php:140, inc/theme-mods/homepage/latest-posts.php:154, inc/theme-mods/search-settings.php:140
+msgid "Post Preview Image Size"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:144, inc/theme-mods/author-settings.php:144, inc/theme-mods/homepage/latest-posts.php:158, inc/theme-mods/page-settings.php:56, inc/theme-mods/post-settings.php:93, inc/theme-mods/search-settings.php:144
+msgid "Display Cropped Image"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:145, inc/theme-mods/author-settings.php:145, inc/theme-mods/homepage/latest-posts.php:159, inc/theme-mods/page-settings.php:57, inc/theme-mods/post-settings.php:94, inc/theme-mods/search-settings.php:145
+msgid "Display Preview in Original Ratio"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:163, inc/theme-mods/author-settings.php:163, inc/theme-mods/homepage/latest-posts.php:177, inc/theme-mods/search-settings.php:163
+msgid "Full Post Summary"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:167, inc/theme-mods/author-settings.php:167, inc/theme-mods/homepage/latest-posts.php:181, inc/theme-mods/search-settings.php:167
+msgid "Use Excerpts"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:168, inc/theme-mods/author-settings.php:168, inc/theme-mods/homepage/latest-posts.php:182, inc/theme-mods/search-settings.php:168
+msgid "Use Read More Tag"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:186, inc/theme-mods/author-settings.php:186, inc/theme-mods/homepage/latest-posts.php:200, inc/theme-mods/search-settings.php:186
+msgid "Pagination"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:191, inc/theme-mods/author-settings.php:191, inc/theme-mods/homepage/latest-posts.php:205, inc/theme-mods/search-settings.php:191
+msgid "Load More Button"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:192, inc/theme-mods/author-settings.php:192, inc/theme-mods/homepage/latest-posts.php:206, inc/theme-mods/search-settings.php:192
+msgid "Infinite Load"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:202, inc/theme-mods/archive-settings.php:213, inc/theme-mods/archive-settings.php:730, inc/theme-mods/author-settings.php:202, inc/theme-mods/author-settings.php:213, inc/theme-mods/header-settings.php:418, inc/theme-mods/header-settings.php:1031, inc/theme-mods/homepage/hero.php:40, inc/theme-mods/homepage/latest-posts.php:216, inc/theme-mods/homepage/latest-posts.php:227, inc/theme-mods/homepage/post-cards.php:58, inc/theme-mods/homepage/post-grid.php:82, inc/theme-mods/homepage/post-slider.php:121, inc/theme-mods/homepage/post-tile.php:105, inc/theme-mods/miscellaneous-settings.php:1129, inc/theme-mods/post-settings.php:64, inc/theme-mods/post-settings.php:498, inc/theme-mods/search-settings.php:202, inc/theme-mods/search-settings.php:213, inc/theme-mods/widgets/post-horizontal.php:105, inc/theme-mods/widgets/post-overlay.php:105, inc/theme-mods/widgets/post-slider.php:160
+msgid "Post Meta"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:224, inc/theme-mods/archive-settings.php:741, inc/theme-mods/author-settings.php:224, inc/theme-mods/header-settings.php:429, inc/theme-mods/header-settings.php:785, inc/theme-mods/header-settings.php:1042, inc/theme-mods/homepage/hero.php:47, inc/theme-mods/homepage/latest-posts.php:238, inc/theme-mods/homepage/post-cards.php:65, inc/theme-mods/homepage/post-grid.php:89, inc/theme-mods/homepage/post-slider.php:128, inc/theme-mods/homepage/post-tile.php:71, inc/theme-mods/homepage/post-tile.php:112, inc/theme-mods/miscellaneous-settings.php:1140, inc/theme-mods/post-settings.php:75, inc/theme-mods/post-settings.php:509, inc/theme-mods/search-settings.php:224, inc/theme-mods/widgets/post-horizontal.php:112, inc/theme-mods/widgets/post-overlay.php:112, inc/theme-mods/widgets/post-slider.php:167
+msgid "Category"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:225, inc/theme-mods/archive-settings.php:742, inc/theme-mods/author-settings.php:225, inc/theme-mods/header-settings.php:430, inc/theme-mods/header-settings.php:786, inc/theme-mods/header-settings.php:1043, inc/theme-mods/homepage/hero.php:48, inc/theme-mods/homepage/latest-posts.php:239, inc/theme-mods/homepage/post-cards.php:66, inc/theme-mods/homepage/post-grid.php:90, inc/theme-mods/homepage/post-slider.php:129, inc/theme-mods/homepage/post-tile.php:72, inc/theme-mods/homepage/post-tile.php:113, inc/theme-mods/miscellaneous-settings.php:1141, inc/theme-mods/post-settings.php:76, inc/theme-mods/post-settings.php:510, inc/theme-mods/search-settings.php:225, inc/theme-mods/widgets/post-horizontal.php:113, inc/theme-mods/widgets/post-overlay.php:113, inc/theme-mods/widgets/post-slider.php:168
+msgid "Reading time"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:226, inc/theme-mods/archive-settings.php:743, inc/theme-mods/author-settings.php:226, inc/theme-mods/header-settings.php:431, inc/theme-mods/header-settings.php:787, inc/theme-mods/header-settings.php:1044, inc/theme-mods/homepage/hero.php:49, inc/theme-mods/homepage/latest-posts.php:240, inc/theme-mods/homepage/post-cards.php:67, inc/theme-mods/homepage/post-grid.php:91, inc/theme-mods/homepage/post-slider.php:130, inc/theme-mods/homepage/post-tile.php:73, inc/theme-mods/homepage/post-tile.php:114, inc/theme-mods/miscellaneous-settings.php:1142, inc/theme-mods/post-settings.php:77, inc/theme-mods/post-settings.php:511, inc/theme-mods/search-settings.php:226, inc/theme-mods/widgets/post-horizontal.php:114, inc/theme-mods/widgets/post-overlay.php:114, inc/theme-mods/widgets/post-slider.php:169
+msgid "Author"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:227, inc/theme-mods/archive-settings.php:744, inc/theme-mods/author-settings.php:227, inc/theme-mods/header-settings.php:432, inc/theme-mods/header-settings.php:788, inc/theme-mods/header-settings.php:1045, inc/theme-mods/homepage/hero.php:50, inc/theme-mods/homepage/latest-posts.php:241, inc/theme-mods/homepage/post-cards.php:68, inc/theme-mods/homepage/post-grid.php:92, inc/theme-mods/homepage/post-slider.php:131, inc/theme-mods/homepage/post-tile.php:74, inc/theme-mods/homepage/post-tile.php:115, inc/theme-mods/miscellaneous-settings.php:1143, inc/theme-mods/post-settings.php:78, inc/theme-mods/post-settings.php:512, inc/theme-mods/search-settings.php:227, inc/theme-mods/widgets/post-horizontal.php:115, inc/theme-mods/widgets/post-overlay.php:115, inc/theme-mods/widgets/post-slider.php:170
+msgid "Date"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:239, inc/theme-mods/author-settings.php:239, inc/theme-mods/homepage/latest-posts.php:253, inc/theme-mods/homepage/post-cards.php:453, inc/theme-mods/search-settings.php:239
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:257, inc/theme-mods/archive-settings.php:392, inc/theme-mods/archive-settings.php:499, inc/theme-mods/archive-settings.php:578, inc/theme-mods/archive-settings.php:861, inc/theme-mods/author-settings.php:257, inc/theme-mods/author-settings.php:392, inc/theme-mods/author-settings.php:499, inc/theme-mods/author-settings.php:578, inc/theme-mods/author-settings.php:722, inc/theme-mods/homepage/banner-one.php:94, inc/theme-mods/homepage/banner-two.php:94, inc/theme-mods/homepage/latest-posts.php:271, inc/theme-mods/homepage/latest-posts.php:405, inc/theme-mods/homepage/latest-posts.php:512, inc/theme-mods/homepage/latest-posts.php:591, inc/theme-mods/homepage/post-cards.php:472, inc/theme-mods/homepage/post-cards.php:611, inc/theme-mods/homepage/post-cards.php:729, inc/theme-mods/post-settings.php:659, inc/theme-mods/search-settings.php:257, inc/theme-mods/search-settings.php:392, inc/theme-mods/search-settings.php:499, inc/theme-mods/search-settings.php:578, inc/theme-mods/search-settings.php:871
+msgid "Desktop"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:285, inc/theme-mods/archive-settings.php:415, inc/theme-mods/archive-settings.php:515, inc/theme-mods/archive-settings.php:607, inc/theme-mods/archive-settings.php:885, inc/theme-mods/author-settings.php:285, inc/theme-mods/author-settings.php:415, inc/theme-mods/author-settings.php:515, inc/theme-mods/author-settings.php:595, inc/theme-mods/author-settings.php:746, inc/theme-mods/homepage/banner-one.php:119, inc/theme-mods/homepage/banner-two.php:119, inc/theme-mods/homepage/latest-posts.php:299, inc/theme-mods/homepage/latest-posts.php:428, inc/theme-mods/homepage/latest-posts.php:528, inc/theme-mods/homepage/latest-posts.php:611, inc/theme-mods/homepage/post-cards.php:501, inc/theme-mods/homepage/post-cards.php:635, inc/theme-mods/homepage/post-cards.php:753, inc/theme-mods/post-settings.php:682, inc/theme-mods/search-settings.php:285, inc/theme-mods/search-settings.php:415, inc/theme-mods/search-settings.php:515, inc/theme-mods/search-settings.php:595, inc/theme-mods/search-settings.php:895
+msgid "Laptop"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:314, inc/theme-mods/archive-settings.php:439, inc/theme-mods/archive-settings.php:532, inc/theme-mods/archive-settings.php:639, inc/theme-mods/archive-settings.php:909, inc/theme-mods/author-settings.php:314, inc/theme-mods/author-settings.php:439, inc/theme-mods/author-settings.php:532, inc/theme-mods/author-settings.php:612, inc/theme-mods/author-settings.php:770, inc/theme-mods/homepage/banner-one.php:144, inc/theme-mods/homepage/banner-two.php:144, inc/theme-mods/homepage/latest-posts.php:328, inc/theme-mods/homepage/latest-posts.php:452, inc/theme-mods/homepage/latest-posts.php:545, inc/theme-mods/homepage/latest-posts.php:633, inc/theme-mods/homepage/post-cards.php:531, inc/theme-mods/homepage/post-cards.php:660, inc/theme-mods/homepage/post-cards.php:778, inc/theme-mods/post-settings.php:706, inc/theme-mods/search-settings.php:314, inc/theme-mods/search-settings.php:439, inc/theme-mods/search-settings.php:532, inc/theme-mods/search-settings.php:612, inc/theme-mods/search-settings.php:919
+msgid "Tablet"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:374, inc/theme-mods/author-settings.php:374, inc/theme-mods/homepage/latest-posts.php:387, inc/theme-mods/homepage/post-cards.php:592, inc/theme-mods/search-settings.php:374
+msgid "Gap between Columns"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:488, inc/theme-mods/author-settings.php:488, inc/theme-mods/homepage/latest-posts.php:501, inc/theme-mods/homepage/post-cards.php:711, inc/theme-mods/search-settings.php:488
+msgid "Gap between Rows"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:567, inc/theme-mods/author-settings.php:567, inc/theme-mods/homepage/latest-posts.php:580, inc/theme-mods/search-settings.php:567
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:716
+msgid "Default Featured Post"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:788, inc/theme-mods/author-settings.php:649, inc/theme-mods/homepage/banner-one.php:20, inc/theme-mods/homepage/banner-two.php:20, inc/theme-mods/post-settings.php:586, inc/theme-mods/search-settings.php:798, inc/theme-mods/widgets/banner.php:11
+msgid "Banner"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:800, inc/theme-mods/author-settings.php:661, inc/theme-mods/search-settings.php:810
+msgid "Enable banner after post grid"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:810, inc/theme-mods/author-settings.php:671, inc/theme-mods/homepage/banner-one.php:40, inc/theme-mods/homepage/banner-two.php:40, inc/theme-mods/post-settings.php:608, inc/theme-mods/search-settings.php:820, inc/theme-mods/widgets/banner.php:104
+msgid "HTML Code"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:845, inc/theme-mods/author-settings.php:706, inc/theme-mods/homepage/banner-one.php:77, inc/theme-mods/homepage/banner-two.php:77, inc/theme-mods/post-settings.php:643, inc/theme-mods/search-settings.php:855
+msgid "Banner Width"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:972, inc/theme-mods/author-settings.php:833, inc/theme-mods/homepage/banner-one.php:210, inc/theme-mods/homepage/banner-two.php:210, inc/theme-mods/post-settings.php:769, inc/theme-mods/search-settings.php:982, inc/theme-mods/widgets/banner.php:139
+msgid "Display label"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:989, inc/theme-mods/author-settings.php:850, inc/theme-mods/header-settings.php:1388, inc/theme-mods/homepage/banner-one.php:228, inc/theme-mods/homepage/banner-two.php:228, inc/theme-mods/miscellaneous-settings.php:144, inc/theme-mods/miscellaneous-settings.php:341, inc/theme-mods/miscellaneous-settings.php:531, inc/theme-mods/miscellaneous-settings.php:721, inc/theme-mods/miscellaneous-settings.php:911, inc/theme-mods/post-settings.php:786, inc/theme-mods/search-settings.php:999, inc/theme-mods/widgets/banner.php:156
+msgid "Label"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:1015, inc/theme-mods/author-settings.php:876, inc/theme-mods/homepage/banner-one.php:255, inc/theme-mods/homepage/banner-two.php:255, inc/theme-mods/post-settings.php:809, inc/theme-mods/search-settings.php:1025, inc/theme-mods/widgets/banner.php:182
+msgid "Label alignment"
+msgstr ""
+
+#: inc/theme-mods/author-settings.php:11
+msgid "Author Settings"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:11
+msgid "Colors"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:19
+msgid "Site Color Scheme"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:23
+msgid "User’s system preference"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:24
+msgid "Light"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:25
+msgid "Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:34
+msgid "Enable dark/light mode toggle"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:52
+msgid "Site Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:70
+msgid "Site Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:88
+msgid "Header Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:106
+msgid "Header Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:124
+msgid "Header Submenu Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:142
+msgid "Header Submenu Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:160
+msgid "Header Topbar Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:178
+msgid "Header Topbar Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:196
+msgid "Footer Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:214
+msgid "Footer Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:232
+msgid "Offcanvas Menu Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:250
+msgid "Offcanvas Menu Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:268
+msgid "Layout Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:286
+msgid "Layout Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:312
+msgid "Primary Color"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:330
+msgid "Primary Color Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:348
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:366
+msgid "Secondary Color Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:384
+msgid "Accent Color"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:402
+msgid "Accent Color Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:420
+msgid "Display advanced color settings"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:445
+msgid "Input Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:469
+msgid "Input Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:493
+msgid "Input Color"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:517
+msgid "Input Color Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:541
+msgid "Button Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:566
+msgid "Button Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:591
+msgid "Button Color"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:616
+msgid "Button Color Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:641
+msgid "Button Hover Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:666
+msgid "Button Hover Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:691
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:716
+msgid "Button Hover Color Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:756
+msgid "Menu Tag Color"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:781
+msgid "Menu Tag Color Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:806
+msgid "Border Color"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:807
+msgid "Used on Form Inputs, Separators etc."
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:832
+msgid "Border Color Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:857
+msgid "Overlay Background"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:888
+msgid "Overlay Background Dark"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:919
+msgid "Display border radius settings"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:944
+msgid "Layout Elements Border Radius"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:945
+msgid "Used on Form Elements, Blockquotes, Block Groups etc."
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:970
+msgid "Thumbnail Border Radius"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:995
+msgid "Tag Border Radius"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:1020
+msgid "Input Border Radius"
+msgstr ""
+
+#: inc/theme-mods/colors-settings.php:1045
+msgid "Button Border Radius"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:11
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:19
+msgid "Display follow section"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:20, inc/theme-mods/header-settings.php:880
+msgid "Enabling this option will display Social Links which can be configured in the Customizing -> Miscellaneous Settings."
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:30
+msgid "Follow widget heading"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:60
+msgid "Footer text"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:72
+msgid "Footer copyright"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:74, inc/theme-tags.php:1194, template-parts/footer.php:10
+msgid "© 2025 Flux. All Rights Reserved."
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:86
+msgid "Marquee"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:97
+msgid "Enable marquee"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:107
+msgid "Text"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:126
+msgid "Speed (ms)"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:156
+msgid "Spacing"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:11
+msgid "Header Settings"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:42
+msgid "Header 1"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:43
+msgid "Header 2"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:53
+msgid "Header Initial Height"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:69
+msgid "Header Height"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:85
+msgid "Header Border Width"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:101
+msgid "Make navigation bar sticky"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:102
+msgid "Enabling this option will make navigation bar visible when scrolling."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:112
+msgid "Enable the smart sticky feature"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:113
+msgid "Enabling this option will reveal navigation bar when scrolling up and hide it when scrolling down."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:130
+msgid "Display navigation menu"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:141, inc/theme-mods/miscellaneous-settings.php:1091, inc/theme-tags.php:514, inc/theme-tags.php:532, inc/theme-tags.php:535, searchform.php:15, searchform.php:17, searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:149
+msgid "Enable header search"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:159
+msgid "Placeholder"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:161, searchform.php:8
+msgid "Search..."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:179, inc/theme-mods/post-settings.php:302, inc/theme-mods/search-settings.php:668, inc/theme-mods/widgets/about.php:189, inc/theme-mods/widgets/follow.php:152, inc/theme-mods/widgets/follow.php:290, inc/theme-mods/widgets/follow.php:428
+msgid "Heading"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:181, template-parts/site-search.php:8
+msgid "What Are You Looking For?"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:215
+msgid "Display posts categories"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:232
+msgid "Categories section heading"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:234, inc/theme-mods/search-settings.php:670, inc/theme-tags.php:705, inc/theme-tags.php:757
+msgid "Popular Searches"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:255, inc/theme-mods/header-settings.php:573, inc/theme-mods/header-settings.php:1182, inc/theme-mods/homepage/hero.php:159, inc/theme-mods/homepage/post-cards.php:232, inc/theme-mods/homepage/post-grid.php:244, inc/theme-mods/homepage/post-slider.php:230, inc/theme-mods/homepage/post-tile.php:277, inc/theme-mods/miscellaneous-settings.php:1258, inc/theme-mods/widgets/post-horizontal.php:209, inc/theme-mods/widgets/post-overlay.php:192, inc/theme-mods/widgets/post-slider.php:264
+msgid "Add comma-separated list of category slugs. For example: &laquo;travel, lifestyle, food&raquo;. Leave empty for all categories."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:277, inc/theme-mods/header-settings.php:665, inc/theme-mods/header-settings.php:1269, inc/theme-mods/homepage/categories.php:127, inc/theme-mods/homepage/post-cards.php:309, inc/theme-mods/homepage/post-grid.php:321, inc/theme-mods/homepage/post-slider.php:307, inc/theme-mods/homepage/post-tile.php:354, inc/theme-mods/miscellaneous-settings.php:1316, inc/theme-mods/search-settings.php:724, inc/theme-mods/widgets/post-horizontal.php:281, inc/theme-mods/widgets/post-overlay.php:264, inc/theme-mods/widgets/post-slider.php:331
+msgid "Order By"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:281, inc/theme-mods/homepage/categories.php:131, inc/theme-mods/search-settings.php:728
+msgid "Name"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:282, inc/theme-mods/homepage/categories.php:132, inc/theme-mods/search-settings.php:729
+msgid "Posts count"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:283, inc/theme-mods/homepage/categories.php:133, inc/theme-mods/search-settings.php:730
+msgid "Slugs"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:284, inc/theme-mods/header-settings.php:675, inc/theme-mods/header-settings.php:1279, inc/theme-mods/homepage/categories.php:134, inc/theme-mods/homepage/post-cards.php:319, inc/theme-mods/homepage/post-grid.php:331, inc/theme-mods/homepage/post-slider.php:317, inc/theme-mods/homepage/post-tile.php:364, inc/theme-mods/miscellaneous-settings.php:1326, inc/theme-mods/search-settings.php:731, inc/theme-mods/widgets/post-horizontal.php:291, inc/theme-mods/widgets/post-overlay.php:274, inc/theme-mods/widgets/post-slider.php:341
+msgid "ID"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:305, inc/theme-mods/header-settings.php:732, inc/theme-mods/header-settings.php:1336, inc/theme-mods/homepage/categories.php:151, inc/theme-mods/homepage/post-cards.php:361, inc/theme-mods/homepage/post-grid.php:373, inc/theme-mods/homepage/post-slider.php:364, inc/theme-mods/homepage/post-tile.php:411, inc/theme-mods/miscellaneous-settings.php:1371, inc/theme-mods/search-settings.php:747, inc/theme-mods/widgets/post-horizontal.php:336, inc/theme-mods/widgets/post-overlay.php:319, inc/theme-mods/widgets/post-slider.php:386
+msgid "Order"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:309, inc/theme-mods/header-settings.php:736, inc/theme-mods/header-settings.php:1340, inc/theme-mods/homepage/categories.php:155, inc/theme-mods/homepage/post-cards.php:365, inc/theme-mods/homepage/post-grid.php:377, inc/theme-mods/homepage/post-slider.php:368, inc/theme-mods/homepage/post-tile.php:415, inc/theme-mods/miscellaneous-settings.php:1375, inc/theme-mods/search-settings.php:751, inc/theme-mods/widgets/post-horizontal.php:340, inc/theme-mods/widgets/post-overlay.php:323, inc/theme-mods/widgets/post-slider.php:390
+msgid "ASC"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:310, inc/theme-mods/header-settings.php:737, inc/theme-mods/header-settings.php:1341, inc/theme-mods/homepage/categories.php:156, inc/theme-mods/homepage/post-cards.php:366, inc/theme-mods/homepage/post-grid.php:378, inc/theme-mods/homepage/post-slider.php:369, inc/theme-mods/homepage/post-tile.php:416, inc/theme-mods/miscellaneous-settings.php:1376, inc/theme-mods/search-settings.php:752, inc/theme-mods/widgets/post-horizontal.php:341, inc/theme-mods/widgets/post-overlay.php:324, inc/theme-mods/widgets/post-slider.php:391
+msgid "DESC"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:331, inc/theme-mods/homepage/categories.php:173, inc/theme-mods/homepage/post-cards.php:388, inc/theme-mods/search-settings.php:768
+msgid "Limit"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:375, inc/theme-mods/header-settings.php:961
+msgid "Display posts section"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:394
+msgid "Post section heading"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:396, inc/theme-tags.php:819
+msgid "Popular posts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:547, inc/theme-mods/header-settings.php:1156, inc/theme-mods/homepage/hero.php:128, inc/theme-mods/homepage/post-cards.php:211, inc/theme-mods/homepage/post-grid.php:223, inc/theme-mods/homepage/post-slider.php:209, inc/theme-mods/homepage/post-tile.php:256, inc/theme-mods/miscellaneous-settings.php:1239, inc/theme-mods/widgets/post-horizontal.php:190, inc/theme-mods/widgets/post-overlay.php:173, inc/theme-mods/widgets/post-slider.php:245
+msgid "Filter by Posts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:548, inc/theme-mods/header-settings.php:1157, inc/theme-mods/homepage/post-cards.php:212
+msgid "Add comma-separated list of post IDs. For example: 12, 34, 145. Leave empty for all posts."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:572, inc/theme-mods/header-settings.php:1181, inc/theme-mods/homepage/hero.php:158, inc/theme-mods/homepage/post-cards.php:231, inc/theme-mods/homepage/post-grid.php:243, inc/theme-mods/homepage/post-slider.php:229, inc/theme-mods/homepage/post-tile.php:276, inc/theme-mods/miscellaneous-settings.php:1257, inc/theme-mods/search-settings.php:706, inc/theme-mods/widgets/post-horizontal.php:208, inc/theme-mods/widgets/post-overlay.php:191, inc/theme-mods/widgets/post-slider.php:263
+msgid "Filter by Categories"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:602, inc/theme-mods/header-settings.php:1211, inc/theme-mods/homepage/hero.php:188, inc/theme-mods/homepage/hero.php:218, inc/theme-mods/homepage/post-cards.php:256, inc/theme-mods/homepage/post-grid.php:268, inc/theme-mods/homepage/post-slider.php:254, inc/theme-mods/homepage/post-tile.php:301, inc/theme-mods/miscellaneous-settings.php:1275, inc/theme-mods/widgets/post-horizontal.php:231, inc/theme-mods/widgets/post-overlay.php:214, inc/theme-mods/widgets/post-slider.php:286
+msgid "Filter by Tags"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:603, inc/theme-mods/header-settings.php:1212, inc/theme-mods/homepage/hero.php:189, inc/theme-mods/homepage/hero.php:219, inc/theme-mods/homepage/post-cards.php:257, inc/theme-mods/homepage/post-grid.php:269, inc/theme-mods/homepage/post-slider.php:255, inc/theme-mods/homepage/post-tile.php:302, inc/theme-mods/miscellaneous-settings.php:1276, inc/theme-mods/widgets/post-horizontal.php:232, inc/theme-mods/widgets/post-overlay.php:215, inc/theme-mods/widgets/post-slider.php:287
+msgid "Add comma-separated list of tag slugs. For example: &laquo;worth-reading, top-5, playlists&raquo;. Leave empty for all tags."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:632, inc/theme-mods/header-settings.php:1241, inc/theme-mods/homepage/post-cards.php:281, inc/theme-mods/homepage/post-grid.php:293, inc/theme-mods/homepage/post-slider.php:279, inc/theme-mods/homepage/post-tile.php:326, inc/theme-mods/miscellaneous-settings.php:1294, inc/theme-mods/widgets/post-horizontal.php:254, inc/theme-mods/widgets/post-overlay.php:237, inc/theme-mods/widgets/post-slider.php:309
+msgid "Offset"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:669, inc/theme-mods/header-settings.php:1273, inc/theme-mods/homepage/post-cards.php:313, inc/theme-mods/homepage/post-grid.php:325, inc/theme-mods/homepage/post-slider.php:311, inc/theme-mods/homepage/post-tile.php:358, inc/theme-mods/miscellaneous-settings.php:1320, inc/theme-mods/widgets/post-horizontal.php:285, inc/theme-mods/widgets/post-overlay.php:268, inc/theme-mods/widgets/post-slider.php:335
+msgid "Published Date"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:670, inc/theme-mods/header-settings.php:1274, inc/theme-mods/homepage/post-cards.php:314, inc/theme-mods/homepage/post-grid.php:326, inc/theme-mods/homepage/post-slider.php:312, inc/theme-mods/homepage/post-tile.php:359, inc/theme-mods/miscellaneous-settings.php:1321, inc/theme-mods/widgets/post-horizontal.php:286, inc/theme-mods/widgets/post-overlay.php:269, inc/theme-mods/widgets/post-slider.php:336
+msgid "Modified Date"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:671, inc/theme-mods/header-settings.php:1275, inc/theme-mods/homepage/post-cards.php:315, inc/theme-mods/homepage/post-grid.php:327, inc/theme-mods/homepage/post-slider.php:313, inc/theme-mods/homepage/post-tile.php:360, inc/theme-mods/miscellaneous-settings.php:1322, inc/theme-mods/widgets/post-horizontal.php:287, inc/theme-mods/widgets/post-overlay.php:270, inc/theme-mods/widgets/post-slider.php:337
+msgid "Title"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:672, inc/theme-mods/header-settings.php:1276, inc/theme-mods/homepage/post-cards.php:316, inc/theme-mods/homepage/post-grid.php:328, inc/theme-mods/homepage/post-slider.php:314, inc/theme-mods/homepage/post-tile.php:361, inc/theme-mods/miscellaneous-settings.php:1323, inc/theme-mods/widgets/post-horizontal.php:288, inc/theme-mods/widgets/post-overlay.php:271, inc/theme-mods/widgets/post-slider.php:338
+msgid "Random"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:674, inc/theme-mods/header-settings.php:1278, inc/theme-mods/homepage/post-cards.php:318, inc/theme-mods/homepage/post-grid.php:330, inc/theme-mods/homepage/post-slider.php:316, inc/theme-mods/homepage/post-tile.php:363, inc/theme-mods/miscellaneous-settings.php:1325, inc/theme-mods/widgets/post-horizontal.php:290, inc/theme-mods/widgets/post-overlay.php:273, inc/theme-mods/widgets/post-slider.php:340
+msgid "Comment Count"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:676, inc/theme-mods/header-settings.php:1280, inc/theme-mods/homepage/post-cards.php:320, inc/theme-mods/homepage/post-grid.php:332, inc/theme-mods/homepage/post-slider.php:318, inc/theme-mods/homepage/post-tile.php:365, inc/theme-mods/miscellaneous-settings.php:61, inc/theme-mods/miscellaneous-settings.php:258, inc/theme-mods/miscellaneous-settings.php:448, inc/theme-mods/miscellaneous-settings.php:638, inc/theme-mods/miscellaneous-settings.php:828, inc/theme-mods/miscellaneous-settings.php:1327, inc/theme-mods/widgets/post-horizontal.php:292, inc/theme-mods/widgets/post-overlay.php:275, inc/theme-mods/widgets/post-slider.php:342
+msgid "Custom"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:703, inc/theme-mods/header-settings.php:1307, inc/theme-mods/homepage/post-cards.php:337, inc/theme-mods/homepage/post-grid.php:349, inc/theme-mods/homepage/post-slider.php:340, inc/theme-mods/homepage/post-tile.php:387, inc/theme-mods/miscellaneous-settings.php:1348, inc/theme-mods/widgets/post-horizontal.php:313, inc/theme-mods/widgets/post-overlay.php:296, inc/theme-mods/widgets/post-slider.php:363
+msgid "Filter by Time Frame"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:704, inc/theme-mods/header-settings.php:1308, inc/theme-mods/homepage/post-cards.php:338, inc/theme-mods/homepage/post-grid.php:350, inc/theme-mods/homepage/post-slider.php:341, inc/theme-mods/homepage/post-tile.php:388, inc/theme-mods/miscellaneous-settings.php:1349, inc/theme-mods/widgets/post-horizontal.php:314, inc/theme-mods/widgets/post-overlay.php:297, inc/theme-mods/widgets/post-slider.php:364
+msgid "Add period of posts in English. For example: &laquo;2 months&raquo;, &laquo;14 days&raquo; or even &laquo;1 year&raquo;"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:774
+msgid "Post meta"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:843
+msgid "Burger Menu"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:851
+msgid "Enable burger menu"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:852
+msgid "Enabling this option will display navigation burger menu which can be configured using Wordpress \"Appearance / Menu\" section. Location - \"Burger Menu\"."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:879
+msgid "Enable follow section"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:899, inc/theme-mods/header-settings.php:981, inc/theme-mods/homepage/categories.php:63, inc/theme-mods/homepage/post-cards.php:40, inc/theme-mods/homepage/post-grid.php:40
+msgid "Section heading"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:933
+msgid "Enable additional menu"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:934
+msgid "Enabling this option will display navigation burger menu which can be configured using Wordpress \"Appearance / Menu\" section. Location - \"Additional menu\"."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:983, inc/theme-tags.php:648
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:1370
+msgid "Custom Button"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:1378
+msgid "Display custom button"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:1405, inc/theme-mods/miscellaneous-settings.php:170, inc/theme-mods/miscellaneous-settings.php:367, inc/theme-mods/miscellaneous-settings.php:557, inc/theme-mods/miscellaneous-settings.php:747, inc/theme-mods/miscellaneous-settings.php:937
+msgid "URL"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:1423, inc/theme-mods/miscellaneous-settings.php:197, inc/theme-mods/miscellaneous-settings.php:394, inc/theme-mods/miscellaneous-settings.php:584, inc/theme-mods/miscellaneous-settings.php:774, inc/theme-mods/miscellaneous-settings.php:964, inc/theme-mods/widgets/about.php:145, inc/theme-mods/widgets/follow.php:213, inc/theme-mods/widgets/follow.php:351, inc/theme-mods/widgets/follow.php:489
+msgid "Target"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:1426, inc/theme-mods/miscellaneous-settings.php:200, inc/theme-mods/miscellaneous-settings.php:397, inc/theme-mods/miscellaneous-settings.php:587, inc/theme-mods/miscellaneous-settings.php:777, inc/theme-mods/miscellaneous-settings.php:967, inc/theme-mods/widgets/about.php:148, inc/theme-mods/widgets/follow.php:216, inc/theme-mods/widgets/follow.php:354, inc/theme-mods/widgets/follow.php:492
+msgid "In the active tab"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:1427, inc/theme-mods/miscellaneous-settings.php:201, inc/theme-mods/miscellaneous-settings.php:398, inc/theme-mods/miscellaneous-settings.php:588, inc/theme-mods/miscellaneous-settings.php:778, inc/theme-mods/miscellaneous-settings.php:968, inc/theme-mods/widgets/about.php:149, inc/theme-mods/widgets/follow.php:217, inc/theme-mods/widgets/follow.php:355, inc/theme-mods/widgets/follow.php:493
+msgid "In a new tab"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:26
+msgid "Display Settings"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:39
+msgid "Front & Static Pages"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:62, inc/theme-mods/homepage-settings.php:143, inc/theme-mods/homepage-settings.php:224, inc/theme-mods/homepage-settings.php:305, inc/theme-mods/homepage-settings.php:386, inc/theme-mods/homepage-settings.php:467, inc/theme-mods/homepage-settings.php:548, inc/theme-mods/homepage-settings.php:629
+msgid "Display section"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:66, inc/theme-mods/homepage-settings.php:147, inc/theme-mods/homepage-settings.php:228, inc/theme-mods/homepage-settings.php:309, inc/theme-mods/homepage-settings.php:390, inc/theme-mods/homepage-settings.php:471, inc/theme-mods/homepage-settings.php:552, inc/theme-mods/homepage-settings.php:633
+msgid "Before Latest Posts"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:67, inc/theme-mods/homepage-settings.php:148, inc/theme-mods/homepage-settings.php:229, inc/theme-mods/homepage-settings.php:310, inc/theme-mods/homepage-settings.php:391, inc/theme-mods/homepage-settings.php:472, inc/theme-mods/homepage-settings.php:553, inc/theme-mods/homepage-settings.php:634
+msgid "After Latest Posts"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:78, inc/theme-mods/homepage-settings.php:159, inc/theme-mods/homepage-settings.php:240, inc/theme-mods/homepage-settings.php:321, inc/theme-mods/homepage-settings.php:402, inc/theme-mods/homepage-settings.php:483, inc/theme-mods/homepage-settings.php:564, inc/theme-mods/homepage-settings.php:645, inc/theme-mods/miscellaneous-settings.php:1080
+msgid "Location"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:83, inc/theme-mods/homepage-settings.php:164, inc/theme-mods/homepage-settings.php:245, inc/theme-mods/homepage-settings.php:326, inc/theme-mods/homepage-settings.php:407, inc/theme-mods/homepage-settings.php:488, inc/theme-mods/homepage-settings.php:569, inc/theme-mods/homepage-settings.php:650
+msgid "Posts page"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:105, inc/theme-mods/homepage-settings.php:186, inc/theme-mods/homepage-settings.php:267, inc/theme-mods/homepage-settings.php:348, inc/theme-mods/homepage-settings.php:429, inc/theme-mods/homepage-settings.php:510, inc/theme-mods/homepage-settings.php:591, inc/theme-mods/homepage-settings.php:672, inc/theme-mods/widgets/about.php:47, inc/theme-mods/widgets/banner.php:47, inc/theme-mods/widgets/follow.php:47, inc/theme-mods/widgets/post-horizontal.php:48, inc/theme-mods/widgets/post-overlay.php:48, inc/theme-mods/widgets/post-slider.php:47
+msgid "Order priority"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:536
+msgid "Banner 1"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:617
+msgid "Banner 2"
+msgstr ""
+
+#: inc/theme-mods/homepage/banner-one.php:11
+msgid "Section: Banner 1"
+msgstr ""
+
+#: inc/theme-mods/homepage/banner-two.php:11
+msgid "Section: Banner 2"
+msgstr ""
+
+#: inc/theme-mods/homepage/categories.php:11
+msgid "Section: Categories"
+msgstr ""
+
+#: inc/theme-mods/homepage/categories.php:45, inc/theme-mods/homepage/post-grid.php:63, inc/theme-mods/homepage/post-tile.php:45
+msgid "Type 1"
+msgstr ""
+
+#: inc/theme-mods/homepage/categories.php:46, inc/theme-mods/homepage/post-grid.php:64, inc/theme-mods/homepage/post-tile.php:46
+msgid "Type 2"
+msgstr ""
+
+#: inc/theme-mods/homepage/categories.php:65, template-parts/sections/categories.php:9
+msgid "Trending Topics"
+msgstr ""
+
+#: inc/theme-mods/homepage/categories.php:82, inc/theme-mods/search-settings.php:686
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/theme-mods/homepage/categories.php:86, inc/theme-mods/search-settings.php:690
+msgid "Tags"
+msgstr ""
+
+#: inc/theme-mods/homepage/categories.php:108
+msgid "Categories or tags"
+msgstr ""
+
+#: inc/theme-mods/homepage/categories.php:109, inc/theme-mods/search-settings.php:707
+msgid "Add comma-separated list of slugs. For example: &laquo;travel, lifestyle, food&raquo;. Leave empty for all."
+msgstr ""
+
+#: inc/theme-mods/homepage/hero.php:11
+msgid "Section: Hero"
+msgstr ""
+
+#: inc/theme-mods/homepage/hero.php:87, inc/theme-mods/homepage/post-cards.php:170, inc/theme-mods/homepage/post-grid.php:182, inc/theme-mods/homepage/post-slider.php:168, inc/theme-mods/homepage/post-tile.php:215, inc/theme-mods/widgets/post-horizontal.php:150, inc/theme-mods/widgets/post-overlay.php:133, inc/theme-mods/widgets/post-slider.php:205
+msgid "Image loading"
+msgstr ""
+
+#: inc/theme-mods/homepage/hero.php:91, inc/theme-mods/homepage/post-cards.php:174, inc/theme-mods/homepage/post-grid.php:186, inc/theme-mods/homepage/post-slider.php:172, inc/theme-mods/homepage/post-tile.php:186, inc/theme-mods/homepage/post-tile.php:219, inc/theme-mods/widgets/post-horizontal.php:154, inc/theme-mods/widgets/post-overlay.php:137, inc/theme-mods/widgets/post-slider.php:209
+msgid "Lazy"
+msgstr ""
+
+#: inc/theme-mods/homepage/hero.php:92, inc/theme-mods/homepage/post-cards.php:175, inc/theme-mods/homepage/post-grid.php:187, inc/theme-mods/homepage/post-slider.php:173, inc/theme-mods/homepage/post-tile.php:187, inc/theme-mods/homepage/post-tile.php:220, inc/theme-mods/widgets/post-horizontal.php:155, inc/theme-mods/widgets/post-overlay.php:138, inc/theme-mods/widgets/post-slider.php:210
+msgid "Eager"
+msgstr ""
+
+#: inc/theme-mods/homepage/hero.php:109, inc/theme-mods/homepage/post-cards.php:192, inc/theme-mods/homepage/post-grid.php:204, inc/theme-mods/homepage/post-slider.php:190, inc/theme-mods/homepage/post-tile.php:237, inc/theme-mods/widgets/post-horizontal.php:172, inc/theme-mods/widgets/post-overlay.php:155, inc/theme-mods/widgets/post-slider.php:227
+msgid "Query"
+msgstr ""
+
+#: inc/theme-mods/homepage/hero.php:129
+msgid "Add comma-separated list of post IDs (max. 1). For example: 12, 34, 145. Leave empty for all posts."
+msgstr ""
+
+#: inc/theme-mods/homepage/hero.php:248, inc/theme-mods/homepage/post-cards.php:416, inc/theme-mods/homepage/post-grid.php:400, inc/theme-mods/homepage/post-slider.php:414, inc/theme-mods/homepage/post-tile.php:438, inc/theme-mods/widgets/post-horizontal.php:389, inc/theme-mods/widgets/post-overlay.php:372, inc/theme-mods/widgets/post-slider.php:439
+msgid "Avoid duplicate posts"
+msgstr ""
+
+#: inc/theme-mods/homepage/hero.php:266, inc/theme-mods/homepage/post-cards.php:434, inc/theme-mods/homepage/post-grid.php:418, inc/theme-mods/homepage/post-slider.php:432, inc/theme-mods/homepage/post-tile.php:456
+msgid "Exclude posts from the main archive"
+msgstr ""
+
+#: inc/theme-mods/homepage/latest-posts.php:11
+msgid "Latest Posts Layout"
+msgstr ""
+
+#: inc/theme-mods/homepage/latest-posts.php:62
+msgid "Latest posts heading"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-cards.php:11
+msgid "Section: Post Cards"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-grid.php:11
+msgid "Section: Post Grid"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-grid.php:42, template-parts/sections/post-grid.php:15
+msgid "Most Popular"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-grid.php:65, inc/theme-mods/homepage/post-tile.php:47
+msgid "Type 3"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-grid.php:224, inc/theme-mods/homepage/post-slider.php:210, inc/theme-mods/homepage/post-tile.php:257, inc/theme-mods/widgets/post-horizontal.php:191, inc/theme-mods/widgets/post-overlay.php:174, inc/theme-mods/widgets/post-slider.php:246
+msgid "Add comma-separated list of post IDs (max. 5). For example: 12, 34, 145. Leave empty for all posts."
+msgstr ""
+
+#: inc/theme-mods/homepage/post-slider.php:11
+msgid "Section: Post Slider"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-slider.php:40, inc/theme-mods/widgets/post-slider.php:104
+msgid "Slider Autoplay"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-slider.php:63, inc/theme-mods/widgets/post-slider.php:126
+msgid "Autoplay Delay (ms)"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-slider.php:98
+msgid "Slider Parallax Effect"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-slider.php:391, inc/theme-mods/widgets/post-horizontal.php:362, inc/theme-mods/widgets/post-overlay.php:345, inc/theme-mods/widgets/post-slider.php:412
+msgid "Maximum Posts"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-tile.php:11
+msgid "Section: Post Tile"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-tile.php:64
+msgid "Featured Post Meta"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-tile.php:134
+msgid "Display featured post excerpt"
+msgstr ""
+
+#: inc/theme-mods/homepage/post-tile.php:182
+msgid "Featured Image loading"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:11
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:19
+msgid "Display published date instead of modified date"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:31
+msgid "Social Links"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:43
+msgid "Enable social links"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:56
+msgid "Social Link 1"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:60, inc/theme-mods/miscellaneous-settings.php:257, inc/theme-mods/miscellaneous-settings.php:447, inc/theme-mods/miscellaneous-settings.php:637, inc/theme-mods/miscellaneous-settings.php:827
+msgid "Preset"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:78, inc/theme-mods/miscellaneous-settings.php:275, inc/theme-mods/miscellaneous-settings.php:465, inc/theme-mods/miscellaneous-settings.php:655, inc/theme-mods/miscellaneous-settings.php:845
+msgid "Social Network"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:81, inc/theme-mods/miscellaneous-settings.php:278, inc/theme-mods/miscellaneous-settings.php:468, inc/theme-mods/miscellaneous-settings.php:658, inc/theme-mods/miscellaneous-settings.php:848, inc/theme-tags.php:472
+msgid "Facebook"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:82, inc/theme-mods/miscellaneous-settings.php:279, inc/theme-mods/miscellaneous-settings.php:469, inc/theme-mods/miscellaneous-settings.php:659, inc/theme-mods/miscellaneous-settings.php:849
+msgid "Instagram"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:83, inc/theme-mods/miscellaneous-settings.php:280, inc/theme-mods/miscellaneous-settings.php:470, inc/theme-mods/miscellaneous-settings.php:660, inc/theme-mods/miscellaneous-settings.php:850
+msgid "X (Twitter)"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:84, inc/theme-mods/miscellaneous-settings.php:281, inc/theme-mods/miscellaneous-settings.php:471, inc/theme-mods/miscellaneous-settings.php:661, inc/theme-mods/miscellaneous-settings.php:851
+msgid "Youtube"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:85, inc/theme-mods/miscellaneous-settings.php:282, inc/theme-mods/miscellaneous-settings.php:472, inc/theme-mods/miscellaneous-settings.php:662, inc/theme-mods/miscellaneous-settings.php:852
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:86, inc/theme-mods/miscellaneous-settings.php:283, inc/theme-mods/miscellaneous-settings.php:473, inc/theme-mods/miscellaneous-settings.php:663, inc/theme-mods/miscellaneous-settings.php:853
+msgid "Pinterest"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:87, inc/theme-mods/miscellaneous-settings.php:284, inc/theme-mods/miscellaneous-settings.php:474, inc/theme-mods/miscellaneous-settings.php:664, inc/theme-mods/miscellaneous-settings.php:854
+msgid "Dribbble"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:88, inc/theme-mods/miscellaneous-settings.php:285, inc/theme-mods/miscellaneous-settings.php:475, inc/theme-mods/miscellaneous-settings.php:665, inc/theme-mods/miscellaneous-settings.php:855
+msgid "Behance"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:89, inc/theme-mods/miscellaneous-settings.php:286, inc/theme-mods/miscellaneous-settings.php:476, inc/theme-mods/miscellaneous-settings.php:666, inc/theme-mods/miscellaneous-settings.php:856, inc/theme-tags.php:486
+msgid "Reddit"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:90, inc/theme-mods/miscellaneous-settings.php:287, inc/theme-mods/miscellaneous-settings.php:477, inc/theme-mods/miscellaneous-settings.php:667, inc/theme-mods/miscellaneous-settings.php:857
+msgid "Github"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:91, inc/theme-mods/miscellaneous-settings.php:288, inc/theme-mods/miscellaneous-settings.php:478, inc/theme-mods/miscellaneous-settings.php:668, inc/theme-mods/miscellaneous-settings.php:858
+msgid "Telegram"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:92, inc/theme-mods/miscellaneous-settings.php:289, inc/theme-mods/miscellaneous-settings.php:479, inc/theme-mods/miscellaneous-settings.php:669, inc/theme-mods/miscellaneous-settings.php:859
+msgid "TikTok"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:117, inc/theme-mods/miscellaneous-settings.php:314, inc/theme-mods/miscellaneous-settings.php:504, inc/theme-mods/miscellaneous-settings.php:694, inc/theme-mods/miscellaneous-settings.php:884, inc/theme-mods/widgets/follow.php:116, inc/theme-mods/widgets/follow.php:254, inc/theme-mods/widgets/follow.php:392
+msgid "Icon"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:118, inc/theme-mods/miscellaneous-settings.php:315, inc/theme-mods/miscellaneous-settings.php:505, inc/theme-mods/miscellaneous-settings.php:695, inc/theme-mods/miscellaneous-settings.php:885, inc/theme-mods/widgets/follow.php:117, inc/theme-mods/widgets/follow.php:255, inc/theme-mods/widgets/follow.php:393
+msgid "Please upload the 2x version of your icon via Media Library with "
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:118, inc/theme-mods/miscellaneous-settings.php:315, inc/theme-mods/miscellaneous-settings.php:505, inc/theme-mods/miscellaneous-settings.php:695, inc/theme-mods/miscellaneous-settings.php:885, inc/theme-mods/widgets/about.php:105, inc/theme-mods/widgets/follow.php:117, inc/theme-mods/widgets/follow.php:135, inc/theme-mods/widgets/follow.php:255, inc/theme-mods/widgets/follow.php:273, inc/theme-mods/widgets/follow.php:393, inc/theme-mods/widgets/follow.php:411
+msgid " suffix for Retina screens support. For example "
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:118, inc/theme-mods/miscellaneous-settings.php:315, inc/theme-mods/miscellaneous-settings.php:505, inc/theme-mods/miscellaneous-settings.php:695, inc/theme-mods/miscellaneous-settings.php:885
+msgid ". Recommended width and height is 20px (40px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:253
+msgid "Social Link 2"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:443
+msgid "Social Link 3"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:633
+msgid "Social Link 4"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:823
+msgid "Social Link 5"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:994
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1006
+msgid "Enable sticky sidebar"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1016
+msgid "Sticky Method"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1020
+msgid "Sidebar top edge"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1021
+msgid "Sidebar bottom edge"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1022
+msgid "Last widget top edge"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1038
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1050
+msgid "Enable scroll to top button"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1062
+msgid "Newest Posts"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1070
+msgid "Enable newest posts section"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1081
+msgid "Select the pages where this section will be displayed."
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1092
+msgid "404 Page"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1109, inc/theme-mods/post-settings.php:367
+msgid "Section Heading"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1111, inc/theme-tags.php:880
+msgid "Recommended for you"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:1240
+msgid "Add comma-separated list of post IDs (max. 4). For example: 12, 34, 145. Leave empty for all posts."
+msgstr ""
+
+#: inc/theme-mods/page-settings.php:11
+msgid "Page Settings"
+msgstr ""
+
+#: inc/theme-mods/page-settings.php:34
+msgid "Page Header Type"
+msgstr ""
+
+#: inc/theme-mods/page-settings.php:52, inc/theme-mods/post-settings.php:89
+msgid "Standard Page Header Preview"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:11
+msgid "Post Settings"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:46
+msgid "Default Page Header Type"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:112
+msgid "Display excerpt as post subtitle"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:122
+msgid "Display metabar section"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:132
+msgid "Display comments without the 'View Comments' button"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:144
+msgid "Post Footer"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:152
+msgid "Display tags"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:170
+msgid "Display post footer"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:180
+msgid "Display category"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:197
+msgid "Display reading time"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:214
+msgid "Display comments"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:231
+msgid "Display published date"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:248
+msgid "Display updated date"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:265
+msgid "Display share links"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:304, template-parts/entry/entry-footer.php:53
+msgid "Share the Post with Your Besties"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:324
+msgid "Display labels"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:349
+msgid "Read Next"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:357
+msgid "Enable read next section"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:369, template-parts/entry/entry-read-next.php:13
+msgid "You may be interested"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:387
+msgid "Display posts"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:388
+msgid "The section will display posts from the current category, published after the current post's date, before it, or the newest posts. In case fewer than six posts meet the requirements, the section will display other posts from the current category. In case there are fewer than six posts in the current category, the section will display posts from other categories."
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:394
+msgid "After current post date"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:395
+msgid "Before current post date"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:396
+msgid "Newest posts"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:413
+msgid "Number of posts"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:532
+msgid "Auto Load Next Post"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:540
+msgid "Enable the auto load next post feature"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:550
+msgid "Auto load posts from the same category only"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:567
+msgid "Auto load previous posts instead of next ones"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:598
+msgid "Enable banner after the post"
+msgstr ""
+
+#: inc/theme-mods/search-settings.php:11
+msgid "Search Settings"
+msgstr ""
+
+#: inc/theme-mods/search-settings.php:647
+msgid "Quick Tags"
+msgstr ""
+
+#: inc/theme-mods/search-settings.php:658
+msgid "Enable tags"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:12
+msgid "Use H1 tag for Logo on Homepage"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:22, inc/theme-mods/typography-settings.php:403
+msgid "Main Logo"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:23
+msgid "The main logo is used in the navigation bar and mobile view of your website. Logo image will be displayed in its original image dimensions. Please upload the 2x version of your logo via Media Library with "
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:23, inc/theme-mods/site-identity.php:51, inc/theme-mods/site-identity.php:79
+msgid " suffix for supporting Retina screens. For example "
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:23
+msgid ". Recommended maximum height is 60px (120px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:33
+msgid "Main Logo for Dark Mode"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:50, inc/theme-mods/typography-settings.php:430
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:51
+msgid "The mobile logo is used in the site mobile view and in the sticky menu. Similar to the main logo, upload the 2x version of your logo via Media Library with "
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:51
+msgid ". Recommended maximum height is 40px (80px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:61
+msgid "Mobile Logo for Dark Mode"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:78, inc/theme-mods/typography-settings.php:457
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:79
+msgid "The footer logo is used in the site footer in desktop and mobile view. Similar to the main logo, upload the 2x version of your logo via Media Library with "
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:79
+msgid ". Recommended maximum height is 80px (160px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:89
+msgid "Footer Logo for Dark Mode"
+msgstr ""
+
+#: inc/theme-mods/theme-widgets.php:11
+msgid "Theme Widgets"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:11
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:27
+msgid "Base Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:52
+msgid "Primary Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:53
+msgid "Used for buttons, and tags and other actionable elements."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:79
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:80
+msgid "Used for breadcrumbs and other secondary elements."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:106
+msgid "Display advanced typography settings"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:116
+msgid "Section Headings Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:149
+msgid "Post Title Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:182
+msgid "Post Subtitle Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:214
+msgid "Post Category Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:240
+msgid "Post Meta Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:273
+msgid "Post Content Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:305
+msgid "Input Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:331
+msgid "Entry Title Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:363
+msgid "Entry Excerpt Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:394
+msgid "Logos"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:404
+msgid "The main logo is used in the navigation bar and mobile view of your website."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:431
+msgid "The mobile logo is used in the site mobile view and in the sticky menu."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:458
+msgid "The footer logo is used in the site footer in desktop and mobile view."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:483, inc/theme-mods/typography-settings.php:492
+msgid "Headings"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:522
+msgid "Headings Font Size"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:534
+msgid "Heading 1"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:552
+msgid "Heading 2"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:570
+msgid "Heading 3"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:588
+msgid "Heading 4"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:606
+msgid "Heading 5"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:624
+msgid "Heading 6"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:641
+msgid "Navigation"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:650
+msgid "Menu Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:651
+msgid "Used for main top level menu elements."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:670
+msgid "Submenu Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:671
+msgid "Used for submenu elements."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:690
+msgid "Footer Menu Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:709
+msgid "Footer Submenu Font"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:11
+msgid "About"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:21, inc/theme-mods/widgets/banner.php:21, inc/theme-mods/widgets/follow.php:21, inc/theme-mods/widgets/post-horizontal.php:21, inc/theme-mods/widgets/post-overlay.php:21, inc/theme-mods/widgets/post-slider.php:21
+msgid "Widget Settings"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:32, inc/theme-mods/widgets/banner.php:32, inc/theme-mods/widgets/follow.php:32, inc/theme-mods/widgets/post-horizontal.php:33, inc/theme-mods/widgets/post-overlay.php:33, inc/theme-mods/widgets/post-slider.php:32
+msgid "Display Location"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:36, inc/theme-mods/widgets/banner.php:36, inc/theme-mods/widgets/follow.php:36, inc/theme-mods/widgets/post-horizontal.php:37, inc/theme-mods/widgets/post-overlay.php:37, inc/theme-mods/widgets/post-slider.php:36
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:37, inc/theme-mods/widgets/banner.php:37, inc/theme-mods/widgets/follow.php:37, inc/theme-mods/widgets/post-horizontal.php:38, inc/theme-mods/widgets/post-overlay.php:38, inc/theme-mods/widgets/post-slider.php:37, inc/widgets-init.php:27
+msgid "Off-canvas"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:69, inc/theme-mods/widgets/banner.php:69, inc/theme-mods/widgets/follow.php:69, inc/theme-mods/widgets/post-horizontal.php:70, inc/theme-mods/widgets/post-overlay.php:70, inc/theme-mods/widgets/post-slider.php:69
+msgid "Widget title"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:104, inc/theme-mods/widgets/follow.php:134, inc/theme-mods/widgets/follow.php:272, inc/theme-mods/widgets/follow.php:410
+msgid "Avatar"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:105, inc/theme-mods/widgets/follow.php:135, inc/theme-mods/widgets/follow.php:273, inc/theme-mods/widgets/follow.php:411
+msgid "Please upload the 2x version of your avatar via Media Library with "
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:105
+msgid ". Recommended width and height is 120px (240px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:122
+msgid "Avatar Link"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:170, inc/theme-mods/widgets/follow.php:171, inc/theme-mods/widgets/follow.php:309, inc/theme-mods/widgets/follow.php:447
+msgid "Subheading"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:208
+msgid "Description"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:228, inc/theme-mods/widgets/banner.php:220, inc/theme-mods/widgets/follow.php:515, inc/theme-mods/widgets/post-horizontal.php:424, inc/theme-mods/widgets/post-overlay.php:407, inc/theme-mods/widgets/post-slider.php:474
+msgid "Visibility"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:256, inc/theme-mods/widgets/banner.php:248, inc/theme-mods/widgets/follow.php:543, inc/theme-mods/widgets/post-horizontal.php:452, inc/theme-mods/widgets/post-overlay.php:435, inc/theme-mods/widgets/post-slider.php:502
+msgid "Hide On Frontpage"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:257, inc/theme-mods/widgets/banner.php:249, inc/theme-mods/widgets/follow.php:544, inc/theme-mods/widgets/post-horizontal.php:453, inc/theme-mods/widgets/post-overlay.php:436, inc/theme-mods/widgets/post-slider.php:503
+msgid "Hide On Homepage"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:258, inc/theme-mods/widgets/banner.php:250, inc/theme-mods/widgets/follow.php:545, inc/theme-mods/widgets/post-horizontal.php:454, inc/theme-mods/widgets/post-overlay.php:437, inc/theme-mods/widgets/post-slider.php:504
+msgid "Hide On Categories"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:259, inc/theme-mods/widgets/banner.php:251, inc/theme-mods/widgets/follow.php:546, inc/theme-mods/widgets/post-horizontal.php:455, inc/theme-mods/widgets/post-overlay.php:438, inc/theme-mods/widgets/post-slider.php:505
+msgid "Hide On Posts"
+msgstr ""
+
+#: inc/theme-mods/widgets/about.php:260, inc/theme-mods/widgets/banner.php:252, inc/theme-mods/widgets/follow.php:547, inc/theme-mods/widgets/post-horizontal.php:456, inc/theme-mods/widgets/post-overlay.php:439, inc/theme-mods/widgets/post-slider.php:506
+msgid "Hide On Pages"
+msgstr ""
+
+#: inc/theme-mods/widgets/follow.php:101
+msgid "Item 1"
+msgstr ""
+
+#: inc/theme-mods/widgets/follow.php:117, inc/theme-mods/widgets/follow.php:255, inc/theme-mods/widgets/follow.php:393
+msgid ". Recommended width and height is 28px (56px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/widgets/follow.php:135, inc/theme-mods/widgets/follow.php:273, inc/theme-mods/widgets/follow.php:411
+msgid ". Recommended width and height is 64px (128px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/widgets/follow.php:190, inc/theme-mods/widgets/follow.php:328, inc/theme-mods/widgets/follow.php:466
+msgid "Link"
+msgstr ""
+
+#: inc/theme-mods/widgets/follow.php:239
+msgid "Item 2"
+msgstr ""
+
+#: inc/theme-mods/widgets/follow.php:377
+msgid "Item 3"
+msgstr ""
+
+#: inc/theme-mods/widgets/post-horizontal.php:11
+msgid "Post Horizontal"
+msgstr ""
+
+#: inc/theme-mods/widgets/post-horizontal.php:133
+msgid "Display numbers"
+msgstr ""
+
+#: inc/theme-mods/widgets/post-horizontal.php:406, inc/theme-mods/widgets/post-overlay.php:389, inc/theme-mods/widgets/post-slider.php:456
+msgid "Exclude hero posts from the main archive"
+msgstr ""
+
+#: inc/theme-mods/widgets/post-overlay.php:11
+msgid "Post Overlay"
+msgstr ""
+
+#: inc/theme-tags.php:340
+msgid "Burger menu button"
+msgstr ""
+
+#: inc/theme-tags.php:344
+msgid "Mobile menu button"
+msgstr ""
+
+#: inc/theme-tags.php:427, inc/theme-tags.php:469
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/theme-tags.php:431, inc/theme-tags.php:476
+msgid "Share in Twitter"
+msgstr ""
+
+#: inc/theme-tags.php:435, inc/theme-tags.php:483
+msgid "Share in Reddit"
+msgstr ""
+
+#: inc/theme-tags.php:439, inc/theme-tags.php:490
+msgid "Copy link"
+msgstr ""
+
+#: inc/theme-tags.php:479
+msgid "X"
+msgstr ""
+
+#: inc/theme-tags.php:493
+msgid "Copy Link"
+msgstr ""
+
+#: inc/theme-tags.php:553, inc/theme-tags.php:574, inc/theme-tags.php:599, inc/theme-tags.php:1407
+msgid "Scheme Toggle"
+msgstr ""
+
+#: inc/theme-tags.php:580
+msgid "Dark Mode"
+msgstr ""
+
+#: inc/theme-tags.php:581
+msgid "Light Mode"
+msgstr ""
+
+#: inc/theme-tags.php:1389
+msgid "Scroll to top button"
+msgstr ""
+
+#. translators: 1: Singular, 2: Plural.
+#: inc/theme-tags.php:1501
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-tags.php:1528
+msgid "More toggle button"
+msgstr ""
+
+#: inc/typography.php:190
+msgid "by "
+msgstr ""
+
+#: index.php:154
+msgid "Oops! The page you're looking for couldn't be found. It may have been moved, renamed, or no longer exists. Try searching to find what you're looking for."
+msgstr ""
+
+#: index.php:149
+msgid "It seems we cannot find what you are looking for."
+msgstr ""
+
+#: index.php:150
+msgid "Please check the spelling or rephrase."
+msgstr ""
+
+#: index.php:89
+msgid "Author posts"
+msgstr ""
+
+#: index.php:130
+msgid "Prev"
+msgstr ""
+
+#: index.php:131
+msgid "Next"
+msgstr ""
+
+#: template-parts/entry/entry-footer.php:39
+msgid "Published:"
+msgstr ""
+
+#: template-parts/entry/entry-footer.php:45
+msgid "Updated:"
+msgstr ""
+
+#: template-parts/offcanvas.php:27
+msgid "Close mobile menu button"
+msgstr ""
+
+#: template-parts/page-header.php:81
+msgid "Oops! We Lost This Page"
+msgstr ""
+
+#: template-parts/page-header.php:66
+msgid "Search Results:"
+msgstr ""
+
+#: template-parts/page-header.php:21
+msgid "All Posts By"
+msgstr ""
+
+#: template-parts/page-header.php:35
+msgid "About Author"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/post-area/post-full.php:70
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. translators: Follow item heading. %s: Heading.
+#: template-parts/widgets/follow.php:77
+msgid "Follow %s"
+msgstr ""
